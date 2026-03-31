@@ -1,6 +1,10 @@
 # Pc-Flipping-Portfolio
 This repository serves as technical documentation for my hardware flipping business, and will document all sales made by me.
 
+## Where I sell on:
+* **Jawa.gg** https://www.jawa.gg/sp/515295/koi-fish-pcs
+* **Facebook** https://www.facebook.com/marketplace/profile/100003188611702/
+* **OfferUp** https://offerup.com/p/167708603
 
 
 ## Summary Statistics
@@ -14,7 +18,7 @@ This repository serves as technical documentation for my hardware flipping busin
 **Specs:** 
 Graphics Card ---> Nvidia EVGA Geforce GTX 1080
 
-CPU ---> Intel i5 6 core 8 thread Processor
+CPU ---> Intel i5 10400 6 core 8 thread Processor
 
 Motherboard ---> MSI H510M-B
 
@@ -31,7 +35,7 @@ Case - DIYPC ARGB-G5-BK
 * **Profit:** $26
 * **Details:** This was my very first build I made. I bought all the parts seperately and then assembled them all together. This computer orginally had an i3 10100F but then was replaced with an i5 10400 in my personal PC to sell quicker. Althought the profits weren't the best, I got valuable learning experience from it.
 * **Things Learned:** 1. How to build a PC  2. How to find deals  3. Parts that look appealing to buyers and parts that don't
-* **Photos:** ![Build 1](3070+5600X.jpg)
+* **Photos:** ![Build 1](PC#1.png)
 ________________________________________
 ### Build #06 (RTX 3070 + Ryzen 5 5600X)
 **Specs:** 
