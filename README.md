@@ -10,8 +10,32 @@ This repository serves as technical documentation for my hardware flipping busin
 
 ## Project Log: 
 
-Build #06 (RTX 3070 + Ryzen 5 5600X)
-**Specs:** CPU: Ryzen 5 5600X 6 cores 12 threads
+### Build #01 (GTX 1080 + i5 10400)
+**Specs:** 
+Graphics Card ---> Nvidia EVGA Geforce GTX 1080
+
+CPU ---> Intel i5 6 core 8 thread Processor
+
+Motherboard ---> MSI H510M-B
+
+Memory ---> Corsair Vengeance RGB Pro 16GB DDR4 3200 mhz
+
+Storage ---> Patriot 1TB M.2 SSD NVME
+
+Power Supply ---> EVGA BR 500w
+
+Case - DIYPC ARGB-G5-BK
+
+* **Cost:** $429
+* **Price sold for:** $455
+* **Profit:** $26
+* **Details:** This was my very first build I made. I bought all the parts seperately and then assembled them all together. This computer orginally had an i3 10100F but then was replaced with an i5 10400 in my personal PC to sell quicker. Althought the profits weren't the best, I got valuable learning experience from it.
+* **Things Learned:** 1. How to build a PC  2. How to find deals  3. Parts that look appealing to buyers and parts that don't
+* **Photos:** ![Build 1](3070+5600X.jpg)
+________________________________________
+### Build #06 (RTX 3070 + Ryzen 5 5600X)
+**Specs:** 
+CPU: Ryzen 5 5600X 6 cores 12 threads
 
 GPU: EVGA RTX 3070 XC3 8GB GDDR6
 
