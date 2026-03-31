@@ -35,7 +35,7 @@ Case - DIYPC ARGB-G5-BK
 * **Profit:** $26
 * **Details:** This was my very first build I made. I bought all the parts seperately and then assembled them all together. This computer orginally had an i3 10100F but then was replaced with an i5 10400 in my personal PC to sell quicker. Althought the profits weren't the best, I got valuable learning experience from it.
 * **Things Learned:** 1. How to build a PC  2. How to find deals  3. Parts that look appealing to buyers and parts that don't
-* **Photos:** ![Build 1](pc_build_one.webp) <img src="pc_build_one.webp" width="400">
+* **Photos:** <img src="pc_build_one.webp" width="400">
 ________________________________________
 ### Build #06 (RTX 3070 + Ryzen 5 5600X)
 **Specs:** 
@@ -58,4 +58,4 @@ Case: Aura case
 * **Price sold for:** $700
 * **Profit:** $50
 * **Details:** Originally bought a PC that had everything inside of this pc except instead of an RTX 3070, it had an RTX 3080. I replaced the RTX 3080 with the RTX 3070 that was in a different PC that I bought (Build #7), and valued this pc to cost me $650.
-* **Photos:** ![Build 1](3070+5600X.jpg)
+* **Photos:** <img src="3070+5600X.jpg" width="400">
