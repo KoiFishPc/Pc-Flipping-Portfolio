@@ -8,6 +8,7 @@ This repository serves as technical documentation for my hardware flipping busin
 
 
 ## Summary Statistics
+* **Amount Started With:** $1300
 * **Current Net Worth:** $973
 * **Total Systems Flipped:** 7
 * **Average Profit Margin:** ?
@@ -35,6 +36,32 @@ Case - DIYPC ARGB-G5-BK
 * **Profit:** $26
 * **Details:** This was my very first build I made. I bought all the parts seperately and then assembled them all together. This computer orginally had an i3 10100F but then was replaced with an i5 10400 in my personal PC to sell quicker. Althought the profits weren't the best, I got valuable learning experience from it.
 * **Things Learned:** 1. How to build a PC  2. How to find deals  3. Parts that look appealing to buyers and parts that don't
+* **Photos:** <img src="pc_build_one.webp" width="400">
+________________________________________
+### Build #02 (RTX 3080 + Ryzen 7 5800X)
+**Specs:** 
+CPU: Ryzen 7 5800X
+
+GPU: Gigabyte Eagle RTX 3080
+
+RAM: ADATA 32GB 3600MT/S DDR4
+
+Storage: 1TB Inland Premium NVME SSD
+
+Motherboard: Gigabyte Vision D-P B550M
+
+CPU Cooler: Thermalright Aqua Elite 360 V6
+
+Power Supply: EVGA SUPERNOVA 750W G+
+
+Case: XPG Invader X ATX
+
+* **Sold On:** Jawa.gg
+* **Cost:** $790
+* **Price sold for:** $920
+* **Profit:** $130
+* **Details:** This PC was my first PC that used an already prebuilt PC and upgraded that PC. The original pc had an GTX 1080, but I replaced it with an RTX 3080 because the gpu was bottlenecking the CPU. I don't have the GTX 1080 anymore because I gave it away as a birthday present. I also upgraded the case and cooler, so if you include the cost of the RTX 3080, the total cost of the upgrades is $385. Although after upgrading the case, I sold the old case and the pcie extender that came with the case for a total of $20.
+* **Things Learned:** 
 * **Photos:** <img src="pc_build_one.webp" width="400">
 ________________________________________
 ### Build #06 (RTX 3070 + Ryzen 5 5600X)
