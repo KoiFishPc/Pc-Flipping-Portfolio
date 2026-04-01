@@ -1,7 +1,6 @@
 # Sales History
-## Project Log: 
 
-### Build #01 (GTX 1080 + i5 10400)
+### Build #01 (GTX 1080 + i5 10400) <b>9/25</b>
 **Specs:** 
 Graphics Card ---> Nvidia EVGA Geforce GTX 1080
 
