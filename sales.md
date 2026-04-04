@@ -1,6 +1,6 @@
 # Sales History
 
-### Build #01 (GTX 1080 + i5 10400) <b>9/25</b>
+### Build #01 (GTX 1080 + i5 10400) 9/25
 **Specs:** 
 Graphics Card ---> Nvidia EVGA Geforce GTX 1080
 
@@ -16,6 +16,7 @@ Power Supply ---> EVGA BR 500w
 
 Case - DIYPC ARGB-G5-BK
 
+* **Sold On:** Jawa.gg
 * **Cost:** $429
 * **Price sold for:** $455
 * **Profit:** $26
@@ -23,7 +24,7 @@ Case - DIYPC ARGB-G5-BK
 * **Things Learned:** <b>1.</b> How to build a PC  <b>2.</b> How to find deals  <b>3.</b> Parts that look appealing to buyers and parts that don't
 * **Photos:** <img src="pc_build_one.webp" width="400">
 ________________________________________
-### Build #02 (RTX 3080 + Ryzen 7 5800X)
+### Build #02 (RTX 3080 + Ryzen 7 5800X) 1/26
 **Specs:** 
 CPU: Ryzen 7 5800X
 
@@ -42,11 +43,36 @@ Power Supply: EVGA SUPERNOVA 750W G+
 Case: XPG Invader X ATX
 
 * **Sold On:** Jawa.gg
-* **Cost:** $790
+* **Cost:** $790 - $10 (case) - $10 (pcie extender) = <b>$770</b>
 * **Price sold for:** $920
-* **Profit:** $130
+* **Profit:** $150
 * **Details:** This PC was my first PC that used an already prebuilt PC and upgraded that PC. The original pc had an GTX 1080, but I replaced it with an RTX 3080 because the gpu was bottlenecking the CPU. I don't have the GTX 1080 anymore because I gave it away as a birthday present. I also upgraded the case and cooler, so if you include the cost of the RTX 3080, the total cost of the upgrades is $385. Although after upgrading the case, I sold the old case and the pcie extender that came with the case for a total of $20.
 * **Things Learned:** 1. A good price to buy an rtx 3080 is around $300 2. Buying a whole PC and then reselling is a lot easier than scavenging for each part seperately
+* **Photos:** <img src="pc_build_two.avif" width="400">
+________________________________________
+### Build #03 (RTX 2070 + i7 8700) 2/26
+**Specs:** 
+CPU: Intel Core i7-8700
+
+GPU: MSI RTX 2070 8GB 
+
+RAM: 16GB DDR4 2400MT/s (2x8GB)
+
+Storage: 1TB Western Digital SATA SSD
+
+Motherboard: ASUS B360M-A (mATX)
+
+CPU Cooler: AIO Liquid Cooler
+
+Power Supply: Thermaltake Smart 600W
+
+Case: SAMA SV02
+
+* **Sold On:** Facebook Marketplace
+* **Cost:** $400 + $60 (case) - $30 (ram) - $10 (case) + $20 (worker pay) = $440
+* **Price sold for:** $510
+* **Profit:** $150
+* **Details:** This PC was made by buying a PC on facebook marketplace then upgrading the case to sell back online. I tried testing out trying to pay a friend to work with me, which I didn't regret entirely. The original PC had 32gb of ram, which I took out 16gb for a future build. 
 * **Photos:** <img src="pc_build_two.avif" width="400">
 ________________________________________
 ### Build #06 (RTX 3070 + Ryzen 5 5600X)
@@ -66,6 +92,8 @@ Cooler: Black air cooler
 PSU: 750W Gold Seasonic
 
 Case: Aura case
+
+* **Sold On:** Offerup
 * **Cost:** $650
 * **Price sold for:** $700
 * **Profit:** $50
