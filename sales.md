@@ -77,7 +77,7 @@ Case: SAMA SV02
 * **Profit:** $70
 * **Details:** This PC was made by buying a PC on facebook marketplace then upgrading the case to sell back online. I tried testing out trying to pay a friend to work with me, which I didn't regret entirely. The original PC had 32gb of ram, which I took out 16gb for a future build.
 * **Things Learned:** <b>1.</b> You're not required to use all the parts that came with the original PC <b>2.</b> Only hire people for hard jobs
-* **Photos:** <img src="pc_build_three" width="400">
+* **Photos:** <img src="pc_build_three.jpg" width="400">
 ________________________________________
 ### Build #06 (RTX 3070 + Ryzen 5 5600X)
 **Specs:** 
