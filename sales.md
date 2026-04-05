@@ -52,7 +52,7 @@ CASE: Zalman case
 * **Profit:** $90
 * **Details:** This is the weakest PC that I built at the time, and I mainly bought it to downgrade some parts and store the better parts away for future uses. I replaced the ram kit to a weaker one and a downgraded the storage down to only 512gb. The main selling point of this build is that it was very upgradable, being on the am4 platform and having 750W. This was also the first PC I bought on Offerup.
 * **Things Learned:** <b>1.</b> You can buy Pc's on Offerup too <b>2.</b> Downgrading parts than reselling for profit is really effective
-* **Photos:** <img src="pc_build_two.avif" width="400">
+* **Photos:** <img src="pc_build_four.jpg" width="400">
 ________________________________________
 ### Build #04 (RTX 2070 + i7 8700) 2/26
 **Specs:** 
