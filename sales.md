@@ -52,7 +52,7 @@ CASE: Zalman case
 * **Profit:** $90
 * **Details:** This is the weakest PC that I built at the time, and I mainly bought it to downgrade some parts and store the better parts away for future uses. I replaced the ram kit to a weaker one and a downgraded the storage down to only 512gb. The main selling point of this build is that it was very upgradable, being on the am4 platform and having 750W. This was also the first PC I bought on Offerup.
 * **Things Learned:** <b>1.</b> You can buy Pc's on Offerup too <b>2.</b> Downgrading parts than reselling for profit is really effective
-* **Photos:** <img src="pc_build_four.jpg" width="400">
+* **Photos:** <img src="Pc_build_four.jpg" width="400">
 ________________________________________
 ### Build #04 (RTX 2070 + i7 8700) 2/26
 **Specs:** 
@@ -78,7 +78,7 @@ Case: SAMA SV02
 * **Profit:** $70
 * **Details:** This PC was made by buying a PC on facebook marketplace then upgrading the case to sell back online. I tried testing out trying to pay a friend to work with me, which I didn't regret entirely. The original PC had 32gb of ram, which I took out 16gb for a future build.
 * **Things Learned:** <b>1.</b> You're not required to use all the parts that came with the original PC <b>2.</b> Only hire people for hard jobs
-* **Photos:** <img src="Pc_build_three.jpg" width="400">
+* **Photos:** <img src="pc_build_three.jpg" width="400">
 _____________________________________________
 ### Build #02 (RTX 3080 + Ryzen 7 5800X) 1/26
 **Specs:** 
