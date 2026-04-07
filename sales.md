@@ -1,5 +1,28 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
+_______________________________________
+### Build #08 (RTX 3080 + i7 12700F) 3/26
+**Specs:** 
+
+CPU: Intel Core i7 12700F 12 Core / 20 Threads
+
+GPU: RTX 3080 10GB
+
+MOBO: Gigabyte B660 
+
+RAM: 32 gb DDR4 4000 mhz T-Force RGB
+
+Storage: 1TB m.2 nvme ssd
+
+Cooler: Black Air Cooler
+
+* **Sold On:** 
+* **Cost:** $600 - $175 (RTX 3070) + $300 (RTX 3080) = <b>$725</b>
+* **Price sold for:**
+* **Profit:** 
+* **Details:** 
+* * **Things I learned:** <b>1.</b> Buy gpus from reputable brands
+* **Photos:** <img src="pc_build_eight.jpg" width="400">
 ________________________________________
 ### Build #07 (RTX 3080 + 7 5800X) 3/26
 **Specs:** 
