@@ -48,5 +48,6 @@ ____________________________________________________________
 ## OTHER
 * **4x Thermaltake fans ($14):** AVAILABLE ---- From Amazon
 * **AsianHorse Extension Cables ($20):** AVAILABLE ---- From Amazon
+* **RGB HUB ($6):** AVAILABLE ---- From Aliexpress
 ____________________________________________________________
 * **2x Thermaltake fans ($7):** USED ---- From Amazon
