@@ -4,7 +4,7 @@
 # Inventory
 * **4x Thermaltake fans ($14):** AVAILABLE ---- From Amazon
 * **AsianHorse Extension Cables ($20):** AVAILABLE ---- From Amazon
-* **Ryzen 5 5600 + Cooler ($80) ** AVAILABLE ---- From a deal
+* **Ryzen 5 5600 + Cooler ($80):** AVAILABLE ---- From a deal
 * **MSI 550W ($20):** AVAILABLE ---- From a deal
 * **AIO Cooler ($25):** AVAILABLE ---- From a deal
 * **MSI case ($25):** AVAILABLE ---- From a deal
