@@ -71,7 +71,7 @@ Case: Aura case
 * **Profit:** $50
 * **Details:** Originally bought a PC that had everything inside of this pc except instead of an RTX 3070, it had an RTX 3080. I replaced the RTX 3080 with the RTX 3070 that was in a different PC that I bought (Build #7), and valued this pc to cost me $650.
 * **Things I learned:** <b>1.</b> Just switching out parts and reselling is really easy
-* **Photos:** <img src="3070+5600X.jpg" width="400">
+* **Photos:** <img src="pc_build_six.jpg" width="400">
 _____________________________________________
 ### Build #05 (RTX 3080 + i7 10700K) 2/26
 **Specs:** 
