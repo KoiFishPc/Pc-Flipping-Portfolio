@@ -1,8 +1,29 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
-
 ________________________________________
-### Build #06 (RTX 3070 + Ryzen 5 5600X)
+### Build #07 (RTX 3080 + 7 5800X) 3/26
+**Specs:** 
+
+CPU: Ryzen 7 5800X 8 Core / 16 Threads
+
+GPU: RTX 3080 10GB
+
+MOBO:  B550
+
+RAM: 16gb DDR4 3200 mhz Corsair LED
+
+Storage: 512gb m.2 nvme ssd + 512gb sata ssd
+
+Cooler: Corsair rgb AIO 
+
+* **Sold On:** Facebook Marketplace
+* **Cost:** $560 - $100 (32gb-4000) + $50 (16gb-3200) + $150 (7 5800X) = <b>$660</b>
+* **Price sold for:** $900
+* **Profit:** $190
+* **Details:** The original Pc I bought had an RTX 3070 and an ryzen 3 3100X, which I replaced both. I put the RTX 3070 in a different build (build #6) and replaced it with a RTX 3080. I also bought a different cpu, the ryzen 7 5800X, so there wouldn't be any bottlenecks. The original build also had a 32gb of trident royal running at 4000mhz, which was overkill for the build so I switched it out for a 16gb kit of ram instead.
+* **Photos:** <img src="pc_build_seven.jpg" width="400">
+________________________________________
+### Build #06 (RTX 3070 + Ryzen 5 5600X) 3/26
 **Specs:** 
 CPU: Ryzen 5 5600X 6 cores 12 threads
 
