@@ -2,9 +2,13 @@
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 
 # Inventory
+## CPU
+____________________________________________________________
+* **Ryzen 5 5600 + Cooler ($80):** AVAILABLE ---- From a deal
+## GPU
+____________________________________________________________
 * **4x Thermaltake fans ($14):** AVAILABLE ---- From Amazon
 * **AsianHorse Extension Cables ($20):** AVAILABLE ---- From Amazon
-* **Ryzen 5 5600 + Cooler ($80):** AVAILABLE ---- From a deal
 * **MSI 550W ($20):** AVAILABLE ---- From a deal
 * **AIO Cooler ($25):** AVAILABLE ---- From a deal
 * **MSI case ($25):** AVAILABLE ---- From a deal
@@ -19,7 +23,7 @@
 * **Ryzen 3 3100X ($5):** AVAILABLE ---- From PC build #07
 * **Arctic Liquid Freezer II ($20) :** AVAILABLE ---- From PC build #02
 * **IBUYPOWER PC case ($10):** AVAILABLE ---- From PC build #03
-* * **2x Thermaltake fans ($7):** USED ---- From Amazon
+* **2x Thermaltake fans ($7):** USED ---- From Amazon
 * **Corsair LED 16gb - 3200mhz DDR4 ($50):** USED ---- From a deal
 * **1tb sata ssd ($60):** USED ---- From PC build #04
 * **Corsair LED 16gb - 2666mhz DDR4 ($40):** USED ---- From PC build #04
