@@ -21,6 +21,7 @@ Cooler: Corsair rgb AIO
 * **Price sold for:** $900
 * **Profit:** $190
 * **Details:** The original Pc I bought had an RTX 3070 and an ryzen 3 3100X, which I replaced both. I put the RTX 3070 in a different build (build #6) and replaced it with a RTX 3080. I also bought a different cpu, the ryzen 7 5800X, so there wouldn't be any bottlenecks. The original build also had a 32gb of trident royal running at 4000mhz, which was overkill for the build so I switched it out for a 16gb kit of ram instead.
+* * **Things I learned:** <b>1.</b> Just switching out parts and reselling is really easy
 * **Photos:** <img src="pc_build_seven.jpg" width="400">
 ________________________________________
 ### Build #06 (RTX 3070 + Ryzen 5 5600X) 3/26
@@ -46,6 +47,7 @@ Case: Aura case
 * **Price sold for:** $700
 * **Profit:** $50
 * **Details:** Originally bought a PC that had everything inside of this pc except instead of an RTX 3070, it had an RTX 3080. I replaced the RTX 3080 with the RTX 3070 that was in a different PC that I bought (Build #7), and valued this pc to cost me $650.
+* **Things I learned:** <b>1.</b> Just switching out parts and reselling is really easy
 * **Photos:** <img src="3070+5600X.jpg" width="400">
 _____________________________________________
 ### Build #05 (RTX 3080 + i7 10700K) 2/26
