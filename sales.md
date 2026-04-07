@@ -100,7 +100,7 @@ CASE: Zalman case
 * **Things Learned:** <b>1.</b> You can buy Pc's on Offerup too <b>2.</b> Downgrading parts than reselling for profit is really effective
 * **Photos:** <img src="Pc_build_four.jpg" width="400">
 ________________________________________
-### Build #04 (RTX 2070 + i7 8700) 2/26
+### Build #03 (RTX 2070 + i7 8700) 2/26
 **Specs:** 
 CPU: Intel Core i7-8700
 
