@@ -2,7 +2,7 @@
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 
 # Inventory
-* **Trident Royal 32GB - 4000mhz DDR4 ($100):** AVAILABLE ---- From PC build #07
+* **Trident Royal 32GB - 4000mhz DDR4 ($90):** AVAILABLE ---- From PC build #07
 * **Arctic Liquid Freezer II ($20) :** AVAILABLE ---- From PC build #02
 * **IBUYPOWER PC case ($10):** AVAILABLE ---- From PC build #03
 * **Corsair LED 16gb - 3200mhz DDR4 ($50):** USED ---- From a free pc that I switched out with the Corsair LED 16gb - 2666mhz
