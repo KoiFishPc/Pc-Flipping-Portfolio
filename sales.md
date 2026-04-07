@@ -17,9 +17,9 @@ Storage: 512gb m.2 nvme ssd + 512gb sata ssd
 Cooler: Corsair rgb AIO 
 
 * **Sold On:** Facebook Marketplace
-* **Cost:** $560 - $100 (32gb-4000) + $50 (16gb-3200) + $150 (7 5800X) = <b>$660</b>
+* **Cost:** $560 - $90 (32gb-4000) + $50 (Corsair LED 16gb - 3200mhz DDR4) + $150 (Ryzen 7 5800X) - $5 (Ryzen 3 1300X) = <b>$665</b>
 * **Price sold for:** $900
-* **Profit:** $190
+* **Profit:** $235
 * **Details:** The original Pc I bought had an RTX 3070 and an ryzen 3 3100X, which I replaced both. I put the RTX 3070 in a different build (build #6) and replaced it with a RTX 3080. I also bought a different cpu, the ryzen 7 5800X, so there wouldn't be any bottlenecks. The original build also had a 32gb of trident royal running at 4000mhz, which was overkill for the build so I switched it out for a 16gb kit of ram instead.
 * * **Things I learned:** <b>1.</b> Just switching out parts and reselling is really easy
 * **Photos:** <img src="pc_build_seven.jpg" width="400">
@@ -95,7 +95,7 @@ PSU: Corsair CX750W
 CASE: Zalman case
 
 * **Sold On:** Facebook Marketplace
-* **Cost:** $175 - $40 (16gb-2666) + $30 (16gb-2400) - $60 (1tb ssd) + $30 (512gb ssd) = <b>$135</b>
+* **Cost:** $175 - $40 (Corsair LED 16gb - 2666mhz DDR4) + $30 (TEAMGROUP 16gb - 2400mhz DDR4) - $60 (1tb ssd) + $30 (512gb ssd) = <b>$135</b>
 * **Price sold for:** $225
 * **Profit:** $90
 * **Details:** This is the weakest PC that I built at the time, and I mainly bought it to downgrade some parts and store the better parts away for future uses. I replaced the ram kit to a weaker one and a downgraded the storage down to only 512gb. The main selling point of this build is that it was very upgradable, being on the am4 platform and having 750W. This was also the first PC I bought on Offerup.
@@ -121,7 +121,7 @@ Power Supply: Thermaltake Smart 600W
 Case: SAMA SV02
 
 * **Sold On:** Facebook Marketplace
-* **Cost:** $400 + $60 (case) - $30 (16gb-2400) - $10 (case) + $20 (worker pay) = <b>$440</b>
+* **Cost:** $400 + $60 (Sama sv02) - $30 (TEAMGROUP 16gb - 2400mhz DDR4) - $10 (IbuyPower) + $20 (worker pay) = <b>$440</b>
 * **Price sold for:** $510
 * **Profit:** $70
 * **Details:** This PC was made by buying a PC on facebook marketplace then upgrading the case to sell back online. I tried testing out trying to pay a friend to work with me, which I didn't regret entirely. The original PC had 32gb of ram, which I took out 16gb for a future build.
