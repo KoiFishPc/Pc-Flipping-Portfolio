@@ -17,7 +17,7 @@ Storage: 1TB m.2 nvme ssd
 Cooler: AMD stock cooler
 
 * **Sold On:** 
-* **Cost:** $175 (RTX 3070) + $80 (Ryzen 5 5600 + cooler) + $60 (MSI b550) + 40 (ADATA XPG 16gb - 3000mhz DDR4 RGB) + $60 (Samsung 1tb sata ssd)+ $25 (SEGOTEP GM 850W) + $25 (MSI case) = <b>$340</b>
+* **Cost:** $175 (RTX 3070) + $80 (Ryzen 5 5600 + cooler) + $60 (MSI b550) + $40 (ADATA XPG 16gb - 3000mhz DDR4 RGB) + $60 (Samsung 1tb sata ssd)+ $25 (SEGOTEP GM 850W) + $25 (MSI case) = <b>$340</b>
 * **Price sold for:**
 * **Profit:** 
 * **Details:** 
@@ -40,7 +40,7 @@ Storage: 1TB m.2 nvme ssd
 Cooler: Black Air Cooler
 
 * **Sold On:** 
-* **Cost:** $600 - $175 (RTX 3070) + $300 (RTX 3080) = <b>$725</b>
+* **Cost:** $600 - $175 (RTX 3070) + $300 (RTX 3080) + $3.50 (thermaltake fan)= <b>$728.50</b>
 * **Price sold for:**
 * **Profit:** 
 * **Details:** 
@@ -63,9 +63,9 @@ Storage: 512gb m.2 nvme ssd + 512gb sata ssd
 Cooler: Corsair rgb AIO 
 
 * **Sold On:** Facebook Marketplace
-* **Cost:** $560 - $90 (32gb-4000) + $50 (Corsair LED 16gb - 3200mhz DDR4) + $150 (Ryzen 7 5800X) - $5 (Ryzen 3 1300X) = <b>$665</b>
+* **Cost:** $560 - $90 (32gb-4000) + $50 (Corsair LED 16gb - 3200mhz DDR4) + $150 (Ryzen 7 5800X) - $5 (Ryzen 3 1300X) + $3.50 (thermaltake fan)= <b>$668.50</b>
 * **Price sold for:** $900
-* **Profit:** $235
+* **Profit:** $231.50
 * **Details:** The original Pc I bought had an RTX 3070 and an ryzen 3 3100X, which I replaced both. I put the RTX 3070 in a different build (build #6) and replaced it with a RTX 3080. I also bought a different cpu, the ryzen 7 5800X, so there wouldn't be any bottlenecks. The original build also had a 32gb of trident royal running at 4000mhz, which was overkill for the build so I switched it out for a 16gb kit of ram instead.
 * * **Things I learned:** <b>1.</b> Just switching out parts and reselling is really easy
 * **Photos:** <img src="pc_build_seven.jpg" width="400">
