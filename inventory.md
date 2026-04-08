@@ -8,6 +8,7 @@
 ____________________________________________________________
 
 ## GPU
+* **RTX 2080 ($150):** AVAILABLE ---- From a deal
 * **RTX 3070 ($175):** AVAILABLE ---- From PC build #08
 ____________________________________________________________
 
@@ -49,5 +50,6 @@ ____________________________________________________________
 * **4x Thermaltake fans ($14):** AVAILABLE ---- From Amazon
 * **AsianHorse Extension Cables ($20):** AVAILABLE ---- From Amazon
 * **RGB HUB ($6):** AVAILABLE ---- From Aliexpress
+* * **Zip Ties ($6):** AVAILABLE ---- From Amazon
 ____________________________________________________________
 * **2x Thermaltake fans ($7):** USED ---- From Amazon
