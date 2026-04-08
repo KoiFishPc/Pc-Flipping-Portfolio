@@ -1,6 +1,30 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 _______________________________________
+### Build #09 (RTX 3070 + 5 5600) 4/26
+**Specs:** 
+
+CPU: Ryzen 5 5600 6 core / 12 threads
+
+GPU: RTX 3070 8GB
+
+MOBO: MSI b550
+
+RAM: ADATA XPG 16gb - 3000mhz DDR4 RGB
+
+Storage: 1TB m.2 nvme ssd
+
+Cooler: AMD stock cooler
+
+* **Sold On:** 
+* **Cost:** $175 (RTX 3070) + $80 (Ryzen 5 5600 + cooler) + $60 (MSI b550) + 40 (ADATA XPG 16gb - 3000mhz DDR4 RGB) + $60 (Samsung 1tb sata ssd)
+  + $25 (SEGOTEP GM 850W) + $25 (MSI case) = <b>$340</b>
+* **Price sold for:**
+* **Profit:** 
+* **Details:** 
+* * **Things I learned:** <b>1.</b> Buy gpus from reputable brands
+* **Photos:** <img src="pc_build_nine.jpg" width="400">
+_______________________________________
 ### Build #08 (RTX 3080 + i7 12700F) 3/26
 **Specs:** 
 
