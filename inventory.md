@@ -32,7 +32,7 @@ ____________________________________________________________
 ## PSU
 * **Rosewill 1000W ($25):** AVAILABLE ---- From a deal
 * **SEGOTEP GM 850W ($25):** AVAILABLE ---- From a deal
-* **MSI 550W ($20):** AVAILABLE ---- From a deal
+* **MSI 550W ($25):** AVAILABLE ---- From a deal
 ____________________________________________________________
 
 ## COOLER
