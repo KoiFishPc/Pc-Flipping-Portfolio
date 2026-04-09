@@ -17,7 +17,7 @@ Storage: 1TB m.2 nvme ssd
 Cooler: AMD stock cooler
 
 * **Sold On:** 
-* **Cost:** $175 (RTX 3070) + $80 (Ryzen 5 5600 + cooler) + $60 (MSI b550) + $40 (ADATA XPG 16gb - 3000mhz DDR4 RGB) + $60 (Samsung 1tb sata ssd)+ $25 (SEGOTEP GM 850W) + $25 (MSI case) = <b>$340</b>
+* **Cost:** $175 (RTX 3070) + $80 (Ryzen 5 5600 + cooler) + $60 (MSI b550) + $40 (ADATA XPG 16gb - 3000mhz DDR4 RGB) + $60 (Samsung 1tb sata ssd)+ $25 (SEGOTEP GM 850W) + $25 (MSI case) = <b>$405</b>
 * **Price sold for:**
 * **Profit:** 
 * **Details:** 
