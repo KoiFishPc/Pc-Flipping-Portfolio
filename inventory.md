@@ -26,6 +26,9 @@ ____________________________________________________________
 * **Corsair LED 16gb - 2666mhz DDR4 ($40):** USED ---- From PC build #04
 * **TEAMGROUP 16gb - 2400mhz DDR4 ($30):** USED ---- From PC build #03
 ## STORAGE 
+* **1tb hdd:** AVAILABLE ---- From one of the pc builds
+* **512gb hdd:** AVAILABLE ---- From one of the pc builds
+* **240gb sata ssd:** AVAILABLE ---- from one of the pc builds
 ____________________________________________________________
 * **1tb sata ssd ($60):** USED ---- From PC build #04
 * **512GB sata ssd ($30):** USED ---- From PC build #02
