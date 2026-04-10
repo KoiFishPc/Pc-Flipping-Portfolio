@@ -193,9 +193,9 @@ Power Supply: EVGA SUPERNOVA 750W G+
 Case: XPG Invader X ATX
 
 * **Sold On:** Jawa.gg
-* **Cost:** $425 + $275 (RTX 3080) + 50 (XPG case) + 60 (Thermalright aio cooler) - $10 (case) - $10 (pcie extender) - $20 (Arctic Liquid Freezer II) - $30 (512gb sata ssd)= <b>$740</b>
+* **Cost:** $425 + $275 (RTX 3080) + 5$0 (XPG case) + $60 (Thermalright aio cooler) + $10 (psu cable) - $10 (case) - $10 (pcie extender) - $20 (Arctic Liquid Freezer II) - $30 (512gb sata ssd)= <b>$740</b>
 * **Price sold for:** $920
-* **Profit:** $180
+* **Profit:** $170
 * **Details:** This PC was my first PC that used an already prebuilt PC and upgraded that PC. The original pc had an GTX 1080, but I replaced it with an RTX 3080 because the gpu was bottlenecking the CPU. I don't have the GTX 1080 anymore because I gave it away as a birthday present. I also upgraded the case and cooler, so if you include the cost of the RTX 3080, the total cost of the upgrades is $385. Although after upgrading the case, I sold the old case and the pcie extender that came with the case for a total of $20 and I kept the old cooler for future uses. There was also an extra 512gb ssd which I took out too.
 * **Things Learned:** 1. A good price to buy an rtx 3080 is around $300 2. Buying a whole PC and then reselling is a lot easier than scavenging for each part seperately
 * **Photos:** <img src="pc_build_two.avif" width="400">
