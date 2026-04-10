@@ -21,7 +21,7 @@ Cooler: AMD stock cooler
 * **Price sold for:** $725
 * **Profit:** $320
 * **Details:** This PC was made using components from my storage, and had the biggest profit yet. All the parts I got pretty good deals on, and if you combine all the deals, you get an amazing pc with cheap. This was also my fastest selling pc, only taking a day until it was sold.
-* * **Things I learned:** <b>1.</b> Using lots of components that you got good deals on can get you a fat profit
+* **Things I learned:** <b>1.</b> Using lots of components that you got good deals on can get you a fat profit
 * **Photos:** <img src="pc_build_nine.jpg" width="400">
 _______________________________________
 ### Build #08 (RTX 3080 + i7 12700F) 3/26
@@ -44,7 +44,7 @@ Cooler: Black Air Cooler
 * **Price sold for:** $850
 * **Profit:** $121.50
 * **Details:** This Pc was made using a different pc that had everything inside this one except for the gpu, instead having an rtx 3070. I bought an rtx 3080 to upgrade the pc, and put the rtx 3070 in my storage. The gpu was a little funky at first, being an hp oem model, but after a little bit of thermal pasting, I managed to get it working again.
-* * **Things I learned:** <b>1.</b> Buy gpus from reputable brands
+* **Things I learned:** <b>1.</b> Buy gpus from reputable brands
 * **Photos:** <img src="pc_build_eight.jpg" width="400">
 ________________________________________
 ### Build #07 (RTX 3080 + 7 5800X) 3/26
