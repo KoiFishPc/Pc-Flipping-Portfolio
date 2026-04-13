@@ -8,8 +8,11 @@ ____________________________________________________________
 * **Ryzen 5 5600 + Cooler ($80):** USED ---- From a deal
 
 ## GPU
-* **RTX 2080 ($150):** AVAILABLE ---- From a deal
+* **GTX 1070 ($40):** AVAILABLE ---- From PC build #10
+* **RTX 3080 ($275):** AVAILABLE ---- From a deal
+* **RTX 3070 ($175):** AVAILABLE ---- From a deal
 ____________________________________________________________
+* **RTX 2080 ($150):** USED ---- From a deal
 * **RTX 3070 ($175):** USED ---- From PC build #08
 
 ## MOBO
@@ -26,6 +29,7 @@ ____________________________________________________________
 * **Corsair LED 16gb - 3200mhz DDR4 ($50):** USED ---- From a deal
 * **Corsair LED 16gb - 2666mhz DDR4 ($40):** USED ---- From PC build #04
 * **TEAMGROUP 16gb - 2400mhz DDR4 ($30):** USED ---- From PC build #03
+* 
 ## STORAGE 
 * **1tb hdd:** AVAILABLE ---- From one of the pc builds
 * **512gb hdd:** AVAILABLE ---- From one of the pc builds
