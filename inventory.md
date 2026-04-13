@@ -17,10 +17,11 @@ ____________________________________________________________
 * **Msi B550 ($60):** USED ---- From a deal
 
 ## RAM
+* **Silicon Power 16g - 3200mhz DDR4 ($30):** AVAILABLE ---- From a deal
 * **T-Force 8gb - 3200mhz DDR4 RGB ($25):** AVAILABLE ---- From a deal
-* **ADATA XPG 16gb - 3000mhz DDR4 RGB ($40):** AVAILABLE ---- From a free pc that I switched out with the Corsair LED 16gb - 2666mhz
 * **Trident Royal 32GB - 4000mhz DDR4 ($90):** AVAILABLE ---- From PC build #07
 ____________________________________________________________
+* **RipJaws 16gb - 2666mhz DDR4 ($30):** SOLD ---- From a deal
 * **ADATA XPG 16gb - 3000mhz DDR4 RGB ($40):** USED ---- From a free pc that I switched out with the Corsair LED 16gb - 2666mhz
 * **Corsair LED 16gb - 3200mhz DDR4 ($50):** USED ---- From a deal
 * **Corsair LED 16gb - 2666mhz DDR4 ($40):** USED ---- From PC build #04
