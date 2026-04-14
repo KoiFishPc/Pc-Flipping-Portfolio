@@ -1,6 +1,31 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 _______________________________________
+### Build #10 (RTX 2080 + 7 3700X) 4/26
+**Specs:** 
+
+CPU: Ryzen 7 3700X 8 cores / 16 thread
+
+GPU: RTX 2080 8GB
+
+MOBO: Asrock B550
+
+RAM: Teamgroup 16gb - 3600mhz DDR4 
+
+Storage: 1TB m.2 nvme ssd
+
+Cooler: Air cooler
+
+Case: NZXT S340
+
+* **Sold On:** 
+* **Cost:** $250 - $40 (GTX 1070) + $150 (RTX 2080) = <b>$360</b>
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1.</b>
+* **Photos:** <img src="pc_build_ten.jpg" width="400">
+_______________________________________
 ### Build #09 (RTX 3070 + 5 5600) 4/26
 **Specs:** 
 
