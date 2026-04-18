@@ -39,9 +39,9 @@ ____________________________________________________________
 * **512GB sata ssd ($30):** USED ---- From PC build #02
 
 ## PSU
-* **Rosewill 1000W ($25):** AVAILABLE ---- From a deal
 * **MSI 550W ($25):** AVAILABLE ---- From a deal
 ____________________________________________________________
+* **Rosewill 1000W ($25):** USED ---- From a deal
 * **SEGOTEP GM 850W ($25):** USED---- From a deal
 
 ## COOLER
@@ -56,9 +56,9 @@ ____________________________________________________________
 * **MSI case ($25):** USED ---- From a deal
 
 ## OTHER
-* **4x Thermaltake fans ($14):** AVAILABLE ---- From Amazon
+* **3x Thermaltake fans ($10.50):** AVAILABLE ---- From Amazon
 * **AsianHorse Extension Cables ($20):** AVAILABLE ---- From Amazon
 * **RGB HUB ($6):** AVAILABLE ---- From Aliexpress
-* * **Zip Ties ($6):** AVAILABLE ---- From Amazon
+* **Zip Ties ($6):** AVAILABLE ---- From Amazon
 ____________________________________________________________
-* **2x Thermaltake fans ($7):** USED ---- From Amazon
+* **3x Thermaltake fans ($10.50):** USED ---- From Amazon
