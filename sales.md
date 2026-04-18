@@ -19,11 +19,11 @@ Cooler: Air cooler
 Case: NZXT S340
 
 * **Sold On:** 
-* **Cost:** $250 - $40 (GTX 1070) + $150 (RTX 2080) = <b>$360</b>
-* **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** <b>1.</b>
+* **Cost:** $250 - $40 (GTX 1070) + $150 (RTX 2080) + $3.5 (thermaltake fan) + $12 (PSU bracket)= <b>$375.50</b>
+* **Price sold for:** $600
+* **Profit:** S224.50
+* **Details:** This PC was built using a different pc then upgrading the gpu, which I put an RTX 2080 inside. The case had missing screws and a missing PSU bracket, which I had to use my own inventory to buy the replacements. The buyer that came also bought my 1000W psu that I had.
+* **Things I learned:** <b>1.</b> Recommend other parts that you have to buyers
 * **Photos:** <img src="pc_build_ten.jpg" width="400">
 _______________________________________
 ### Build #09 (RTX 3070 + 5 5600) 4/26
