@@ -42,9 +42,9 @@ Storage: 1TB m.2 nvme ssd
 Cooler: AMD stock cooler
 
 * **Sold On:** Facebook Marketplace
-* **Cost:** $175 (RTX 3070) + $80 (Ryzen 5 5600 + cooler) + $60 (MSI b550) + $40 (ADATA XPG 16gb - 3000mhz DDR4 RGB) + $60 (Samsung 1tb sata ssd)+ $25 (SEGOTEP GM 850W) + $25 (MSI case) = <b>$405</b>
+* **Cost:** $175 (RTX 3070) + $80 (Ryzen 5 5600 + cooler) + $60 (MSI b550) + $40 (ADATA XPG 16gb - 3000mhz DDR4 RGB) + $60 (Samsung 1tb sata ssd)+ $25 (SEGOTEP GM 850W) + $25 (MSI case) = <b>$465</b>
 * **Price sold for:** $725
-* **Profit:** $320
+* **Profit:** $260
 * **Details:** This PC was made using components from my storage, and had the biggest profit yet. All the parts I got pretty good deals on, and if you combine all the deals, you get an amazing pc with cheap. This was also my fastest selling pc, only taking a day until it was sold.
 * **Things I learned:** <b>1.</b> Using lots of components that you got good deals on can get you a fat profit
 * **Photos:** <img src="pc_build_nine.jpg" width="400">
