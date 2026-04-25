@@ -10,6 +10,7 @@ ____________________________________________________________
 * **Ryzen 5 5600 + Cooler ($80):** USED ---- From a deal
 
 ## GPU
+* **RTX 2080 Super ($80):** AVAILABLE ---- From Facebook Marketplace
 * **RTX 2060 6gb ($40):** AVAILABLE ---- From a deal
 * **GTX 1070 ($40):** AVAILABLE ---- From PC build #10
 * **RTX 3080 ($275):** AVAILABLE ---- From a deal
@@ -19,6 +20,9 @@ ____________________________________________________________
 * **RTX 3070 ($175):** USED ---- From PC build #08
 
 ## MOBO
+* **ASUS ROG Strix B550-F ($66):** AVAILABLE ---- From Ebay
+* **ASUS PRIME B550-Plus ($67):** AVAILABLE ---- From Ebay
+* **MSI B450 Pro Max ($61):** AVAILABLE ---- From Ebay
 * **X470 Gaming Pro Carbon ($40):** AVAILABLE ---- From a deal
 * **MSI B650 ($40):** AVAILABLE ---- From a deal
 * **MSI b450 Pro max ($60):** BROKEN ---- From a deal
@@ -48,6 +52,7 @@ ____________________________________________________________
 * **512GB sata ssd ($30):** USED ---- From PC build #02
 
 ## PSU
+* **850W Modular SFX ($75):** AVAILABLE ---- From Ebay
 * **850w modular ($20):** AVAILABLE ---- From a deal
 * **MSI 550W ($25):** AVAILABLE ---- From a deal
 ____________________________________________________________
@@ -68,6 +73,7 @@ ____________________________________________________________
 * **MSI case ($25):** USED ---- From a deal
 
 ## OTHER
+* **45g Arctic Mx-4 Thermal Paste ($22):** AVAILABLE ---- From Amazon
 * **3x Thermaltake fans ($10.50):** AVAILABLE ---- From Amazon
 * **AsianHorse Extension Cables ($20):** AVAILABLE ---- From Amazon
 * **RGB HUB ($6):** AVAILABLE ---- From Aliexpress
