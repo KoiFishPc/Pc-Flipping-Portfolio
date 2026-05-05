@@ -69,7 +69,7 @@ ____________________________________________________________
 ____________________________________________________________
 
 ## CASE
-* **NZXT case ($40):** AVAILABLE ---- From a deal
+* **NZXT case ($10):** AVAILABLE ---- From a deal
 * **Lian Li O11 Dynamic Mini ($50):** AVAILABLE ---- From a deal
 * **IBUYPOWER PC case ($10):** AVAILABLE ---- From PC build #03
 ____________________________________________________________
