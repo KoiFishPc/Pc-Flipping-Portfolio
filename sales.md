@@ -16,15 +16,16 @@ Storage: 1TB m.2 nvme ssd
 
 Cooler: Dual tower air cooler
 
-Case: NZXT Case
+Case: Lian Li 011 Dynamic Mini
 
+PSU: Cooler Master 850W SFX Modular PSU
 * **Sold On:** 
-* **Cost:** 
+* **Cost:** $80 (5 5600G) + $175 (RTX 3070) + $40 (Z470) + $40 (Silicon Power 16gb - 3200mhz) + $72 (1TB NVME SSD) + $75 (850W SFX Modular) + $10 (Dual Tower Air Cooler) + $50 (Lian Li O11) + $20 (White Cable Extensions) + $20 (Case fans) = <b>$582</b>
 * **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** .
-* **Photos:** <img src="pc_build_ten.jpg" width="400">
+* **Profit:**
+* **Details:**
+* **Things I learned:** <b>1.</b> 
+* **Photos:** <img src="pc_build_eleven.jpg" width="400">
 _______________________________________
 ### Build #10 (RTX 2080 + 7 3700X) 4/26
 **Specs:** 
