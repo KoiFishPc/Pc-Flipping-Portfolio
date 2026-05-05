@@ -1,6 +1,31 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 _______________________________________
+### Build #11 (RTX 3070 + 5 5600G) 5/26
+**Specs:** 
+
+CPU: Ryzen 5 5600G 6 cores / 12 thread
+
+GPU: RTX 3070 8GB
+
+MOBO: MSI Z470 Gaming Pro Carbon
+
+RAM: Silicon power 16gb - 3200mhz
+
+Storage: 1TB m.2 nvme ssd
+
+Cooler: Dual tower air cooler
+
+Case: NZXT Case
+
+* **Sold On:** 
+* **Cost:** 
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** .
+* **Photos:** <img src="pc_build_ten.jpg" width="400">
+_______________________________________
 ### Build #10 (RTX 2080 + 7 3700X) 4/26
 **Specs:** 
 
