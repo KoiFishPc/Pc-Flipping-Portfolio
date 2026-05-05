@@ -25,7 +25,7 @@ ____________________________________________________________
 * **MSI B450 Pro Max ($61):** AVAILABLE ---- From Ebay
 * **X470 Gaming Pro Carbon ($40):** AVAILABLE ---- From a deal
 * **MSI B650 ($40):** AVAILABLE ---- From a deal
-* **MSI b450 Pro max ($60):** BROKEN ---- From a deal
+* **MSI b450 Pro max ($60):** AVAILABLE ---- From a deal
 ____________________________________________________________
 * **Msi B550 ($60):** USED ---- From a deal
 
@@ -43,15 +43,18 @@ ____________________________________________________________
 * **TEAMGROUP 16gb - 2400mhz DDR4 ($30):** USED ---- From PC build #03
 * 
 ## STORAGE 
-* **256gb sata ssd ($15)** AVAILABLE ---- Froma deal
+* **1tb nvme ssd ($72)** AVAILABLE ---- From eBay
+* **256gb sata ssd ($15)** AVAILABLE ---- From a deal
 * **1tb hdd:** AVAILABLE ---- From one of the pc builds
 * **512gb hdd:** AVAILABLE ---- From one of the pc builds
-* **240gb sata ssd:** AVAILABLE ---- from one of the pc builds
 ____________________________________________________________
+* **2tb sata ssd ($65):** RETURNED ---- From eBay
 * **1tb sata ssd ($60):** USED ---- From PC build #04
 * **512GB sata ssd ($30):** USED ---- From PC build #02
+* **240gb sata ssd:** BROKEN ---- from one of the pc builds
 
 ## PSU
+* **RAIDMAX 650W 6x ($204):** AVAILABLE ---- From newegg
 * **850W Modular SFX ($75):** AVAILABLE ---- From Ebay
 * **850w modular ($20):** AVAILABLE ---- From a deal
 * **MSI 550W ($25):** AVAILABLE ---- From a deal
