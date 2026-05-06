@@ -8,7 +8,7 @@ CPU: Ryzen 5 5600G 6 cores / 12 thread
 
 GPU: RTX 3070 8GB
 
-MOBO: MSI Z470 Gaming Pro Carbon
+MOBO: MSI X470 Gaming Pro Carbon
 
 RAM: Silicon power 16gb - 3200mhz
 
@@ -20,7 +20,7 @@ Case: Lian Li 011 Dynamic Mini
 
 PSU: Cooler Master 850W SFX Modular PSU
 * **Sold On:** 
-* **Cost:** $80 (5 5600G) + $175 (RTX 3070) + $40 (Z470) + $40 (Silicon Power 16gb - 3200mhz) + $72 (1TB NVME SSD) + $75 (850W SFX Modular) + $10 (Dual Tower Air Cooler) + $50 (Lian Li O11) + $20 (White Cable Extensions) + $8 (Case fans) = <b>$570</b>
+* **Cost:** $80 (5 5600G) + $175 (RTX 3070) + $40 (X470) + $40 (Silicon Power 16gb - 3200mhz) + $72 (1TB NVME SSD) + $75 (850W SFX Modular) + $10 (Dual Tower Air Cooler) + $50 (Lian Li O11) + $20 (White Cable Extensions) + $8 (Case fans) = <b>$570</b>
 * **Price sold for:** 
 * **Profit:**
 * **Details:**
