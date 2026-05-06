@@ -54,7 +54,7 @@ ____________________________________________________________
 * **240gb sata ssd:** BROKEN ---- from one of the pc builds
 
 ## PSU
-* **RAIDMAX 650W 6x ($204):** AVAILABLE ---- From newegg
+* **RAIDMAX 650W 6x ($34 each):** AVAILABLE ---- From newegg
 * **850W Modular SFX ($75):** AVAILABLE ---- From Ebay
 * **850w modular ($20):** AVAILABLE ---- From a deal
 * **MSI 550W ($25):** AVAILABLE ---- From a deal
