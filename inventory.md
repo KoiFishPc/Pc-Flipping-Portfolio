@@ -3,6 +3,8 @@
 
 # Inventory
 ## CPU
+* **Ryzen 7 5800XT ($144):** AVAILABLE ---- From eBay
+* **Ryzen 9 3900X ($99):** AVAILABLE ---- From eBay
 * **Ryzen 3 3100X ($5):** AVAILABLE ---- From PC build #07
 * **Ryzen 5 5600G ($80):** AVAILABLE ---- From a deal
 * **Ryzen 7 3700X ($40):** AVAILABLE ---- From a deal
@@ -10,6 +12,7 @@ ____________________________________________________________
 * **Ryzen 5 5600 + Cooler ($80):** USED ---- From a deal
 
 ## GPU
+* **RTX 5060 ti 16gb ($455):** AVAILABLE ---- From eBay
 * **RTX 2080 Super ($80):** AVAILABLE ---- From Facebook Marketplace
 * **RTX 2060 6gb ($40):** AVAILABLE ---- From a deal
 * **GTX 1070 ($40):** AVAILABLE ---- From PC build #10
@@ -19,9 +22,9 @@ ____________________________________________________________
 * **RTX 2080 ($150):** USED ---- From a deal
 * **RTX 3070 ($175):** USED ---- From PC build #08
 
-## MOBO
+## MOTHERBOARD
 * **ASUS ROG Strix B550-F ($66):** AVAILABLE ---- From Ebay
-* **ASUS PRIME B550-Plus ($67):** AVAILABLE ---- From Ebay
+* **ASUS PRIME B550-Plus ($78):** AVAILABLE ---- From Ebay
 * **MSI B450 Pro Max ($61):** AVAILABLE ---- From Ebay
 * **X470 Gaming Pro Carbon ($40):** AVAILABLE ---- From a deal
 * **MSI B650 ($40):** AVAILABLE ---- From a deal
@@ -30,7 +33,8 @@ ____________________________________________________________
 * **Msi B550 ($60):** USED ---- From a deal
 
 ## RAM
-* **Corsair Vengeance RGB Pro 16gb - 3000mhz DDR4 ($40)** AVAILABLE ---- From a deal
+* **G.SKILL Ripjaws V 32gb - 2666mhz DDR4 ($35):** AVAILBALE ---- From a deal
+* **Corsair Vengeance RGB Pro 32gb - 3000mhz DDR4 ($86)** AVAILABLE ---- From a deal
 * **Corsair Vengeance 32gb - 3200mhz DDR4 ($70):** AVAILABLE ---- From a deal
 * **Silicon Power 16gb - 3200mhz DDR4 ($30):** AVAILABLE ---- From a deal
 * **T-Force 8gb - 3200mhz DDR4 RGB ($25):** AVAILABLE ---- From a deal
@@ -43,8 +47,10 @@ ____________________________________________________________
 * **TEAMGROUP 16gb - 2400mhz DDR4 ($30):** USED ---- From PC build #03
 * 
 ## STORAGE 
-* **1tb nvme ssd ($72)** AVAILABLE ---- From eBay
-* **256gb sata ssd ($15)** AVAILABLE ---- From a deal
+* **512gb nvme ssd 8x ($34 each):** AVAILABLE ---- From eBay
+* **Intel 512gb sata ssd ($30):** AVAILABLE ---- From eBay
+* **WD 1tb nvme ssd ($72)** AVAILABLE ---- From eBay
+* **SAMSUNG 256gb sata ssd ($15)** AVAILABLE ---- From a deal
 * **1tb hdd:** AVAILABLE ---- From one of the pc builds
 * **512gb hdd:** AVAILABLE ---- From one of the pc builds
 ____________________________________________________________
@@ -63,6 +69,7 @@ ____________________________________________________________
 * **SEGOTEP GM 850W ($25):** USED---- From a deal
 
 ## COOLER
+* **Cooler Master Hyper 212 3x ($11.7 each):** AVAILABLE ---- From Amazon
 * **Corsair Dual tower air cooler ($10):** AVAILABLE ---- From a deal
 * **Arctic Liquid Freezer II ($20):** AVAILABLE ---- From PC build #02
 * **AIO Cooler ($25):** AVAILABLE ---- From a deal
@@ -76,6 +83,7 @@ ____________________________________________________________
 * **MSI case ($25):** USED ---- From a deal
 
 ## OTHER
+* **Am4 motherboard backplate 6x ($5.7 each):** AVAILABLE ---- From eBay
 * **45g Arctic Mx-4 Thermal Paste ($22):** AVAILABLE ---- From Amazon
 * **3x Thermaltake fans ($10.50):** AVAILABLE ---- From Amazon
 * **AsianHorse Extension Cables ($20):** AVAILABLE ---- From Amazon
