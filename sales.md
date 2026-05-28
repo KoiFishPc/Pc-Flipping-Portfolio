@@ -10,7 +10,7 @@ GPU: RTX 3080 10GB
 
 MOBO: MSI X470 Gaming Pro Carbon
 
-RAM: Silicon power 16gb - 3200mhz
+RAM: Corsair Vengeance 32gb - 3200mhz
 
 Storage: 1TB m.2 nvme ssd
 
@@ -20,7 +20,7 @@ Case: Lian Li 011 Dynamic Mini
 
 PSU: Cooler Master 850W SFX Modular PSU
 * **Sold On:** 
-* **Cost:** $99 (9 3900X) + $275 (RTX 3080) + $40 (X470) + $40 (Silicon Power 16gb - 3200mhz) + $72 (1TB NVME SSD) + $75 (850W SFX Modular) + $10 (Dual Tower Air Cooler) + $50 (Lian Li O11) + $20 (White Cable Extensions) + $8 (Case fans) = <b>$689</b>
+* **Cost:** $99 (9 3900X) + $275 (RTX 3080) + $40 (X470) + $70 (Corsair 32gb - 3200mhz) + $72 (1TB NVME SSD) + $75 (850W SFX Modular) + $10 (Dual Tower Air Cooler) + $50 (Lian Li O11) + $20 (White Cable Extensions) + $8 (Case fans) = <b>$719</b>
 * **Price sold for:** 
 * **Profit:**
 * **Details:**
