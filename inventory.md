@@ -75,6 +75,8 @@ ____________________________________________________________
 ____________________________________________________________
 * **Corsair Dual tower air cooler ($10):** USED ---- From a deal
 ## CASE
+* **SAMA 4503 ($55):** AVAILABLE ---- From Amazon
+* **Lian Li V100 ($55):** AVAILABLE ---- From Amazon
 * **NZXT case ($10):** AVAILABLE ---- From a deal
 * **IBUYPOWER PC case ($10):** AVAILABLE ---- From PC build #03
 ____________________________________________________________
@@ -82,11 +84,12 @@ ____________________________________________________________
 * **MSI case ($25):** USED ---- From a deal
 
 ## OTHER
+* **AsianHorse Extension Cables ($22):** AVAILABLE ---- From Amazon
 * **Am4 motherboard backplate 6x ($5.7 each):** AVAILABLE ---- From eBay
 * **45g Arctic Mx-4 Thermal Paste ($22):** AVAILABLE ---- From Amazon
 * **3x Thermaltake fans ($10.50):** AVAILABLE ---- From Amazon
-* **AsianHorse Extension Cables ($20):** AVAILABLE ---- From Amazon
 * **RGB HUB ($6):** AVAILABLE ---- From Aliexpress
 * **Zip Ties ($6):** AVAILABLE ---- From Amazon
 ____________________________________________________________
+* **AsianHorse Extension Cables ($20):** USED ---- From Amazon
 * **3x Thermaltake fans ($10.50):** USED ---- From Amazon
