@@ -11,8 +11,8 @@ This repository serves as technical documentation for my hardware flipping busin
 
 ## Summary Statistics
 * **Amount Started With:** $1300
-* **Current Net Worth:** -$179
-* **Total Systems Flipped:** 10
-* **Average Profit Margin:** $145.75
+* **Current Net Worth:** $636
+* **Total Systems Flipped:** 11
+* **Average Profit Margin:** 151.32
 
 
