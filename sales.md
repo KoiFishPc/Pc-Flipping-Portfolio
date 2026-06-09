@@ -1,7 +1,7 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 _______________________________________
-### Build #11 (RTX 3080 + 9 3900X) 5/26
+### Build #11 (RTX 3080 + 9 3900X) 6/26
 **Specs:** 
 
 CPU: Ryzen 9 3900X 12 cores / 24 thread
@@ -19,12 +19,12 @@ Cooler: Dual tower air cooler
 Case: Lian Li 011 Dynamic Mini
 
 PSU: Cooler Master 850W SFX Modular PSU
-* **Sold On:** 
+* **Sold On:** Facebook Marketplace
 * **Cost:** $99 (9 3900X) + $275 (RTX 3080) + $40 (X470) + $70 (Corsair 32gb - 3200mhz) + $72 (1TB NVME SSD) + $75 (850W SFX Modular) + $10 (Dual Tower Air Cooler) + $50 (Lian Li O11) + $20 (White Cable Extensions) + $8 (Case fans) = <b>$719</b>
-* **Price sold for:** 
-* **Profit:**
-* **Details:**
-* **Things I learned:** <b>1.</b> 
+* **Price sold for:** $925
+* **Profit:** $206
+* **Details:** This pc is probably my best looking one, with the case and psu combined costing $125, which is very expensive for those parts. The profit was worth it though
+* **Things I learned:** <b>1. Maybe don't spend too much money on expensive cases and psus</b> 
 * **Photos:** <img src="pc_build_eleven.jpg" width="400">
 _______________________________________
 ### Build #10 (RTX 2080 + 7 3700X) 4/26
@@ -44,7 +44,7 @@ Cooler: Air cooler
 
 Case: NZXT S340
 
-* **Sold On:** 
+* **Sold On:** Facebook Marketplace
 * **Cost:** $250 - $40 (GTX 1070) + $150 (RTX 2080) + $3.5 (thermaltake fan) + $12 (PSU bracket)= <b>$375.50</b>
 * **Price sold for:** $600
 * **Profit:** $224.50
