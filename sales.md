@@ -1,6 +1,33 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 _______________________________________
+### Build #10 (RTX 3070 + 5 5600G) 6/26
+**Specs:** 
+
+CPU: Ryzen 5 5600G 6 cores / 12 threads 
+
+GPU: RTX 2080 SUPER 8GB
+
+MOBO: MSI B450-A PRO MAX
+
+RAM: Corsair 16gb - 3000mhz DDR4 RGB
+
+Storage: 512 GB m.2 nvme ssd
+
+PSU: 650W RAIDMAX
+
+Cooler: Air cooler
+
+Case: NZXT
+
+* **Sold On:** 
+* **Cost:** $90 (CPU) + $80 (GPU) + $50 (MOBO) + $40 (RAM) + $34 (Storage) + $34 (PSU) + $11.70 (Cooler) + $10 (Case) = <b>$349.70</b>
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1.</b>
+* **Photos:** <img src="pc_build_twelve.jpg" width="400">
+_______________________________________
 ### Build #11 (RTX 3080 + 9 3900X) 6/26
 **Specs:** 
 
@@ -24,7 +51,7 @@ PSU: Cooler Master 850W SFX Modular PSU
 * **Price sold for:** $925
 * **Profit:** $206
 * **Details:** This pc is probably my best looking one, with the case and psu combined costing $125, which is very expensive for those parts. The profit was worth it though
-* **Things I learned:** <b>1. Maybe don't spend too much money on expensive cases and psus</b> 
+* **Things I learned:** <b>1. </b>Maybe don't spend too much money on expensive cases and psus
 * **Photos:** <img src="pc_build_eleven.jpg" width="400">
 _______________________________________
 ### Build #10 (RTX 2080 + 7 3700X) 4/26
