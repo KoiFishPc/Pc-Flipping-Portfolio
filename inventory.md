@@ -34,7 +34,8 @@ ____________________________________________________________
 
 ## RAM
 * **G.SKILL Ripjaws V 32gb - 2666mhz DDR4 ($35):** AVAILBALE ---- From a deal
-* **Corsair Vengeance RGB Pro 32gb - 3000mhz DDR4 ($86)** AVAILABLE ---- From a deal
+* **Corsair Vengeance RGB Pro 16gb - 3000mhz DDR4 ($40)** AVAILABLE ---- From a deal
+* * **Corsair Vengeance RGB Pro 16gb - 3200mhz DDR4 ($46)** AVAILABLE ---- eBay
 * **Silicon Power 16gb - 3200mhz DDR4 ($30):** AVAILABLE ---- From a deal
 * **T-Force 8gb - 3200mhz DDR4 RGB ($25):** AVAILABLE ---- From a deal
 * **Trident Royal 32GB - 4000mhz DDR4 ($90):** AVAILABLE ---- From PC build #07
