@@ -5,7 +5,7 @@
 ## CPU
 * **Ryzen 7 5800XT ($144):** AVAILABLE ---- From eBay
 * **Ryzen 3 3100X ($5):** AVAILABLE ---- From PC build #07
-* **Ryzen 5 5600G ($80):** AVAILABLE ---- From a deal
+* **Ryzen 5 5600G ($90):** AVAILABLE ---- From a deal
 * **Ryzen 7 3700X ($40):** AVAILABLE ---- From a deal
 ____________________________________________________________
 * **Ryzen 9 3900X ($99):** USED ---- From eBay
@@ -27,7 +27,7 @@ ____________________________________________________________
 * **ASUS PRIME B550-Plus ($78):** AVAILABLE ---- From Ebay
 * **MSI B450 Pro Max ($61):** AVAILABLE ---- From Ebay
 * **MSI B650 ($40):** AVAILABLE ---- From a deal
-* **MSI b450 Pro max ($60):** AVAILABLE ---- From a deal
+* **MSI b450 Pro max ($50):** AVAILABLE ---- From a deal
 ____________________________________________________________
 * **X470 Gaming Pro Carbon ($40):** USED ---- From a deal
 * **Msi B550 ($60):** USED ---- From a deal
