@@ -3,6 +3,8 @@
 
 # Inventory
 ## CPU
+* **Ryzen 7 7700X ($100):** AVAILABLE ---- From Facebook Marketplace
+* **Ryzen 7 3700X ($58):** AVAILABLE ---- From Facebook Marketplace
 * **Ryzen 7 5800XT ($144):** AVAILABLE ---- From eBay
 * **Ryzen 3 3100X ($5):** AVAILABLE ---- From PC build #07
 * **Ryzen 5 5600G ($90):** AVAILABLE ---- From a deal
@@ -36,10 +38,11 @@ ____________________________________________________________
 * **G.SKILL Ripjaws V 32gb - 2666mhz DDR4 ($35):** AVAILBALE ---- From a deal
 * **Corsair Vengeance RGB Pro 16gb - 3000mhz DDR4 ($40)** AVAILABLE ---- From a deal
 * * **Corsair Vengeance RGB Pro 16gb - 3200mhz DDR4 ($46)** AVAILABLE ---- eBay
-* **Silicon Power 16gb - 3200mhz DDR4 ($30):** AVAILABLE ---- From a deal
+* **Silicon Power 8gb - 3200mhz DDR4 ($30):** AVAILABLE ---- From a deal
 * **T-Force 8gb - 3200mhz DDR4 RGB ($25):** AVAILABLE ---- From a deal
 * **Trident Royal 32GB - 4000mhz DDR4 ($90):** AVAILABLE ---- From PC build #07
 ____________________________________________________________
+* **Silicon Power 8gb - 3200mhz DDR4 ($0):** BROKEN ---- From a deal
 * **Corsair Vengeance 32gb - 3200mhz DDR4 ($70):**USED ---- From a deal
 * **RipJaws 16gb - 2666mhz DDR4 ($30):** SOLD ---- From a deal
 * **ADATA XPG 16gb - 3000mhz DDR4 RGB ($40):** USED ---- From a free pc that I switched out with the Corsair LED 16gb - 2666mhz
