@@ -1,12 +1,39 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 _______________________________________
-### Build #10 (RTX 3070 + 5 5600G) 6/26
+### Build #13 (RTX 2080 SUPER + 7 3700X) 6/26
+**Specs:** 
+
+CPU: Ryzen 7 3700X 8 cores / 16 threads 
+
+GPU: RTX 2080 SUPER 8GB
+
+MOBO: ASUS PRIME B550-PLUS
+
+RAM: Corsair 16gb - 3200mhz DDR4 RGB
+
+Storage: 512 GB m.2 nvme ssd
+
+PSU: 650W RAIDMAX
+
+Cooler: Air cooler
+
+Case: Sama Neview 4503
+
+* **Sold On:** 
+* **Cost:** $58 (CPU) + $80 (GPU) + $83.70 (MOBO) + $48 (RAM) + $34 (Storage) + $34 (PSU) + $0 (Cooler) + $55 (Case) + $22 (Cable Extension) = <b>$414.70</b>
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1.</b>
+* **Photos:** <img src="pc_build_thirteen.jpg" width="400">
+_______________________________________
+### Build #12 (RTX 3070 + 5 5600G) 6/26
 **Specs:** 
 
 CPU: Ryzen 5 5600G 6 cores / 12 threads 
 
-GPU: RTX 2080 SUPER 8GB
+GPU: RTX 3070 8GB
 
 MOBO: MSI B450-A PRO MAX
 
@@ -21,7 +48,7 @@ Cooler: Air cooler
 Case: NZXT
 
 * **Sold On:** 
-* **Cost:** $90 (CPU) + $80 (GPU) + $50 (MOBO) + $40 (RAM) + $34 (Storage) + $34 (PSU) + $11.70 (Cooler) + $10 (Case) = <b>$349.70</b>
+* **Cost:** $90 (CPU) + $175 (GPU) + $50 (MOBO) + $40 (RAM) + $34 (Storage) + $34 (PSU) + $11.70 (Cooler) + $10 (Case) = <b>$444.70</b>
 * **Price sold for:** 
 * **Profit:** 
 * **Details:** 
