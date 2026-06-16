@@ -89,7 +89,6 @@ ____________________________________________________________
 
 ## OTHER
 * **AsianHorse Extension Cables ($22):** AVAILABLE ---- From Amazon
-* **Am4 motherboard backplate 6x ($5.7 each):** AVAILABLE ---- From eBay
 * **45g Arctic Mx-4 Thermal Paste ($22):** AVAILABLE ---- From Amazon
 * **3x Thermaltake fans ($10.50):** AVAILABLE ---- From Amazon
 * **RGB HUB ($6):** AVAILABLE ---- From Aliexpress
