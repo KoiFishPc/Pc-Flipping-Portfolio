@@ -64,6 +64,7 @@ ____________________________________________________________
 * **240gb sata ssd:** BROKEN ---- from one of the pc builds
 
 ## PSU
+* **EVGA 650W ($30):** AVAILABLE ---- From Facebook Marketplace
 * **RAIDMAX 650W 6x ($34 each):** AVAILABLE ---- From newegg
 * **850w modular ($20):** AVAILABLE ---- From a deal
 * **MSI 550W ($25):** AVAILABLE ---- From a deal
@@ -79,6 +80,7 @@ ____________________________________________________________
 ____________________________________________________________
 * **Corsair Dual tower air cooler ($10):** USED ---- From a deal
 ## CASE
+* **Phantek Enthoo Pro M ($20):** AVAILABLE ---- From Facebook Marketplace
 * **SAMA 4503 ($55):** AVAILABLE ---- From Amazon
 * **Lian Li V100 ($55):** AVAILABLE ---- From Amazon
 * **NZXT case ($10):** AVAILABLE ---- From a deal
