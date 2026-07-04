@@ -65,6 +65,7 @@ ____________________________________________________________
 * **240gb sata ssd:** BROKEN ---- from one of the pc builds
 
 ## PSU
+* **SeaSonic 860W ($40):** AVAILBALE ---- From Facebook Marketplace
 * **EVGA 650W ($30):** AVAILABLE ---- From Facebook Marketplace
 * **RAIDMAX 650W 6x ($34 each):** AVAILABLE ---- From newegg
 * **850w modular ($20):** AVAILABLE ---- From a deal
@@ -75,12 +76,15 @@ ____________________________________________________________
 * **SEGOTEP GM 850W ($25):** USED---- From a deal
 
 ## COOLER
+* **AIO with screen ($30):** AVAILABLE ---- From Facebook Marketplace
 * **Cooler Master Hyper 212 3x ($11.7 each):** AVAILABLE ---- From Amazon
 * **Arctic Liquid Freezer II ($20):** AVAILABLE ---- From PC build #02
 * **AIO Cooler ($25):** AVAILABLE ---- From a deal
 ____________________________________________________________
 * **Corsair Dual tower air cooler ($10):** USED ---- From a deal
 ## CASE
+* **Gamdias Pc Case ($38.75 each):** AVAILABLE ---- From Amazon
+* **White Pc Case ($50):** AVAILABLE ---- From Facebook Marketplace
 * **Phantek Enthoo Pro M ($20):** AVAILABLE ---- From Facebook Marketplace
 * **SAMA 4503 ($55):** AVAILABLE ---- From Amazon
 * **Lian Li V100 ($55):** AVAILABLE ---- From Amazon
