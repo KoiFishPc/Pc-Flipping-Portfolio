@@ -35,6 +35,7 @@ ____________________________________________________________
 * **Msi B550 ($60):** USED ---- From a deal
 
 ## RAM
+* **Trident Royal 16GB - 3600mhz DDR4 ($50):** AVAILABLE ---- From Facebook Marketplace
 * **G.SKILL Ripjaws V 32gb - 2666mhz DDR4 ($35):** AVAILBALE ---- From a deal
 * **Corsair Vengeance RGB Pro 16gb - 3000mhz DDR4 ($40)** AVAILABLE ---- From a deal
 * **Corsair Vengeance RGB Pro 16gb - 3200mhz DDR4 ($46)** AVAILABLE ---- eBay
