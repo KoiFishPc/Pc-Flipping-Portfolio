@@ -1,6 +1,33 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 _______________________________________
+### Build #14 (RTX 2060 + 7 3700X) 6/26
+**Specs:** 
+
+CPU: Ryzen 7 3700X 8 cores / 16 threads
+
+GPU: RTX 2060 6GB
+
+MOBO: ASUS PRIME B550-Plus
+
+RAM: Teamgroup 32gb - 2666mhz DDR4
+
+Storage: 512 GB m.2 nvme ssd
+
+PSU: 500W MSI MAG
+
+Cooler: Air cooler
+
+Case: Phanteks case
+
+* **Sold On:** Facebook Marketplace
+* **Cost:** 
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1.</b>
+* **Photos:** <img src="pc_build_fourteen.jpg" width="400">
+_______________________________________
 ### Build #13 (RTX 2080 SUPER + 7 3700X) 6/26
 **Specs:** 
 
@@ -21,9 +48,9 @@ Cooler: Air cooler
 Case: Sama Neview 4503
 
 * **Sold On:** 
-* **Cost:** $58 (CPU) + $80 (GPU) + $83.70 (MOBO) + $48 (RAM) + $34 (Storage) + $34 (PSU) + $0 (Cooler) + $55 (Case) + $22 (Cable Extension) = <b>$414.70</b>
-* **Price sold for:** 
-* **Profit:** 
+* **Cost:** $58 (CPU) + $80 (GPU) + $83.70 (MOBO) + $48 (RAM) + $34 (Storage) + $34 (PSU) + $0 (Cooler) + $55 (Case) + $22 (Cable Extension) + $75 (friend) = <b>$489.70</b>
+* **Price sold for:** $650
+* **Profit:** $160.30
 * **Details:** 
 * **Things I learned:** <b>1.</b>
 * **Photos:** <img src="pc_build_thirteen.jpg" width="400">
@@ -48,9 +75,9 @@ Cooler: Air cooler
 Case: NZXT
 
 * **Sold On:** 
-* **Cost:** $90 (CPU) + $175 (GPU) + $50 (MOBO) + $40 (RAM) + $34 (Storage) + $34 (PSU) + $11.70 (Cooler) + $10 (Case) = <b>$444.70</b>
-* **Price sold for:** 
-* **Profit:** 
+* **Cost:** $90 (CPU) + $175 (GPU) + $50 (MOBO) + $40 (RAM) + $34 (Storage) + $34 (PSU) + $11.70 (Cooler) + $10 (Case) + $90 (friend) = <b>$534.70</b>
+* **Price sold for:** $675
+* **Profit:** $140.5
 * **Details:** 
 * **Things I learned:** <b>1.</b>
 * **Photos:** <img src="pc_build_twelve.jpg" width="400">
