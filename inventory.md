@@ -52,12 +52,14 @@ ____________________________________________________________
 * **TEAMGROUP 16gb - 2400mhz DDR4 ($30):** USED ---- From PC build #03
 * 
 ## STORAGE 
-* **512gb nvme ssd 7x ($34 each):** AVAILABLE ---- From eBay
+* **512gb nvme ssd 5x ($34 each):** AVAILABLE ---- From eBay
 * **Intel 512gb sata ssd ($30):** AVAILABLE ---- From eBay
 * **SAMSUNG 256gb sata ssd ($15)** AVAILABLE ---- From a deal
 * **1tb hdd:** AVAILABLE ---- From one of the pc builds
 * **512gb hdd:** AVAILABLE ---- From one of the pc builds
 ____________________________________________________________
+* **512gb nvme ssd 2x ($34 each):** USED ---- From eBay
+* **Intel 512gb sata ssd ($30):** USED ---- From eBay
 * **512gb nvme ssd 1x ($34 each):** USED ---- From eBay
 * **WD 1tb nvme ssd ($72)** USED ---- From eBay
 * **2tb sata ssd ($65):** RETURNED ---- From eBay
@@ -68,40 +70,41 @@ ____________________________________________________________
 ## PSU
 * **SeaSonic 860W ($40):** AVAILBALE ---- From Facebook Marketplace
 * **EVGA 650W ($30):** AVAILABLE ---- From Facebook Marketplace
-* **RAIDMAX 650W 5x ($34 each):** AVAILABLE ---- From newegg
+* **RAIDMAX 650W 3x ($34 each):** AVAILABLE ---- From newegg
 * **850w modular ($20):** AVAILABLE ---- From a deal
-* **MSI 550W ($25):** AVAILABLE ---- From a deal
 ____________________________________________________________
-* **RAIDMAX 650W 1x ($34 each):** USED ---- From newegg
+* **MSI 500W ($25):** USED ---- From a deal
+* **RAIDMAX 650W 3x ($34 each):** USED ---- From newegg
 * **850W Modular SFX ($75):** USED ---- From Ebay
 * **Rosewill 1000W ($25):** USED ---- From a deal
 * **SEGOTEP GM 850W ($25):** USED---- From a deal
 
 ## COOLER
 * **AIO with screen ($30):** AVAILABLE ---- From Facebook Marketplace
-* **Cooler Master Hyper 212 3x ($11.7 each):** AVAILABLE ---- From Amazon
+* **Cooler Master Hyper 212 ($11.7):** AVAILABLE ---- From Amazon
 * **Arctic Liquid Freezer II ($20):** AVAILABLE ---- From PC build #02
 * **AIO Cooler ($25):** AVAILABLE ---- From a deal
 ____________________________________________________________
+* **Cooler Master Hyper 212 2x ($11.7 each):** USED ---- From Amazon
 * **Corsair Dual tower air cooler ($10):** USED ---- From a deal
 ## CASE
-* **Gamdias Pc Case ($38.75 each):** AVAILABLE ---- From Amazon
 * **White Pc Case ($50):** AVAILABLE ---- From Facebook Marketplace
-* **Phantek Enthoo Pro M ($20):** AVAILABLE ---- From Facebook Marketplace
-* **SAMA 4503 ($55):** AVAILABLE ---- From Amazon
 * **Lian Li V100 ($55):** AVAILABLE ---- From Amazon
 * **IBUYPOWER PC case ($10):** AVAILABLE ---- From PC build #03
 ____________________________________________________________
+* **Phantek Enthoo Pro M ($20):** USED ---- From Facebook Marketplace
+* **SAMA 4503 ($55):** USED ---- From Amazon
+* **Gamdias Pc Case ($38.75 each):** USED ---- From Amazon
 * **NZXT case ($10):** USED ---- From a deal
 * **Lian Li O11 Dynamic Mini ($50):** USED ---- From a deal
 * **MSI case ($25):** USED ---- From a deal
 
 ## OTHER
-* **AsianHorse Extension Cables ($22):** AVAILABLE ---- From Amazon
+
 * **45g Arctic Mx-4 Thermal Paste ($22):** AVAILABLE ---- From Amazon
-* **3x Thermaltake fans ($10.50):** AVAILABLE ---- From Amazon
 * **RGB HUB ($6):** AVAILABLE ---- From Aliexpress
 * **Zip Ties ($6):** AVAILABLE ---- From Amazon
 ____________________________________________________________
+* **AsianHorse Extension Cables ($22):** USED ---- From Amazon
 * **AsianHorse Extension Cables ($20):** USED ---- From Amazon
 * **3x Thermaltake fans ($10.50):** USED ---- From Amazon
