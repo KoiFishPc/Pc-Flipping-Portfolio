@@ -100,7 +100,7 @@ ____________________________________________________________
 * **MSI case ($25):** USED ---- From a deal
 
 ## OTHER
-
+* **Mirror case fans 9x ($6.16 each):** AVAILABLE ---- From Amazon
 * **45g Arctic Mx-4 Thermal Paste ($22):** AVAILABLE ---- From Amazon
 * **RGB HUB ($6):** AVAILABLE ---- From Aliexpress
 * **Zip Ties ($6):** AVAILABLE ---- From Amazon
