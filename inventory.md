@@ -15,33 +15,33 @@ ____________________________________________________________
 
 ## GPU
 * **RTX 5060 ti 16gb ($455):** AVAILABLE ---- From eBay
-* **RTX 2060 6gb ($40):** AVAILABLE ---- From a deal
 * **GTX 1070 ($40):** AVAILABLE ---- From PC build #10
-* **RTX 3070 ($175):** AVAILABLE ---- From a deal
 ____________________________________________________________
+* **RTX 3070 ($175):** USED ---- From a deal
+* **RTX 2060 6gb ($40):** USED ---- From a deal
 * **RTX 2080 Super ($80):** USED ---- From Facebook Marketplace
 * **RTX 3080 ($275):** USED ---- From a deal
 * **RTX 2080 ($150):** USED ---- From a deal
 * **RTX 3070 ($175):** USED ---- From PC build #08
 
 ## MOTHERBOARD
-* **ASUS ROG Strix B550-F ($66):** AVAILABLE ---- From Ebay
-* **ASUS PRIME B550-Plus ($78):** AVAILABLE ---- From Ebay
 * **MSI B450 Pro Max ($61):** AVAILABLE ---- From Ebay
 * **MSI B650 ($40):** AVAILABLE ---- From a deal
 ____________________________________________________________
+* **ASUS ROG Strix B550-F ($66):** USED ---- From Ebay
+* **ASUS PRIME B550-Plus ($78):** USED ---- From Ebay
 * **MSI b450 Pro max ($50):** USED ---- From a deal
 * **X470 Gaming Pro Carbon ($40):** USED ---- From a deal
 * **Msi B550 ($60):** USED ---- From a deal
 
 ## RAM
 * **Trident Royal 16GB - 3600mhz DDR4 ($50):** AVAILABLE ---- From Facebook Marketplace
-* **G.SKILL Ripjaws V 32gb - 2666mhz DDR4 ($35):** AVAILBALE ---- From a deal
-* **Corsair Vengeance RGB Pro 16gb - 3200mhz DDR4 ($46)** AVAILABLE ---- eBay
 * **Silicon Power 8gb - 3200mhz DDR4 ($30):** AVAILABLE ---- From a deal
 * **T-Force 8gb - 3200mhz DDR4 RGB ($25):** AVAILABLE ---- From a deal
 * **Trident Royal 32GB - 4000mhz DDR4 ($90):** AVAILABLE ---- From PC build #07
 ____________________________________________________________
+* **Corsair Vengeance RGB Pro 16gb - 3200mhz DDR4 ($46)** USED ---- eBay
+* **G.SKILL Ripjaws V 32gb - 2666mhz DDR4 ($35):** USED ---- From a deal
 * **Corsair Vengeance RGB Pro 16gb - 3000mhz DDR4 ($40)** USED ---- From a deal
 * **Silicon Power 8gb - 3200mhz DDR4 ($0):** BROKEN ---- From a deal
 * **Corsair Vengeance 32gb - 3200mhz DDR4 ($70):**USED ---- From a deal
