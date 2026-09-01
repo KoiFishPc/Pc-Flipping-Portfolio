@@ -6,9 +6,9 @@
 * **Ryzen 7 7700X ($100):** AVAILABLE ---- From Facebook Marketplace
 * **Ryzen 7 5800XT ($144):** AVAILABLE ---- From eBay
 * **Ryzen 3 3100X ($5):** AVAILABLE ---- From PC build #07
-* **Ryzen 5 5600G ($90):** AVAILABLE ---- From a deal
-* **Ryzen 7 3700X ($40):** AVAILABLE ---- From a deal
 ____________________________________________________________
+* **Ryzen 5 5600G ($90):** USED---- From a deal
+* **Ryzen 7 3700X ($40):** USED ---- From a deal
 * **Ryzen 7 3700X ($58):** USED ---- From Facebook Marketplace
 * **Ryzen 9 3900X ($99):** USED ---- From eBay
 * **Ryzen 5 5600 + Cooler ($80):** USED ---- From a deal
