@@ -53,7 +53,6 @@ ____________________________________________________________
 * 
 ## STORAGE 
 * **512gb nvme ssd 5x ($34 each):** AVAILABLE ---- From eBay
-* **Intel 512gb sata ssd ($30):** AVAILABLE ---- From eBay
 * **SAMSUNG 256gb sata ssd ($15)** AVAILABLE ---- From a deal
 * **1tb hdd:** AVAILABLE ---- From one of the pc builds
 * **512gb hdd:** AVAILABLE ---- From one of the pc builds
