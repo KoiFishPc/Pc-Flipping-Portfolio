@@ -21,11 +21,9 @@ Cooler: Air cooler
 Case: Phanteks case
 
 * **Sold On:** Facebook Marketplace
-* **Cost:** 
-* **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** <b>1.</b>
+* **Cost:** $40 (CPU) + $40 (GPU) + $86 (MOBO) + $35 (RAM) + $34 (Storage) + $25 (PSU) + $11.70 (Cooler) + $20 (Case) = <b>$291.70</b>
+* **Price sold for:** $500
+* **Profit:** $208.30
 * **Photos:** <img src="pc_build_fourteen.jpg" width="400">
 _______________________________________
 ### Build #13 (RTX 2080 SUPER + 7 3700X) 6/26
@@ -47,12 +45,10 @@ Cooler: Air cooler
 
 Case: Sama Neview 4503
 
-* **Sold On:** 
+* **Sold On:** Facebook Marketplace
 * **Cost:** $58 (CPU) + $80 (GPU) + $83.70 (MOBO) + $48 (RAM) + $34 (Storage) + $34 (PSU) + $0 (Cooler) + $55 (Case) + $22 (Cable Extension) + $75 (friend) = <b>$489.70</b>
 * **Price sold for:** $650
 * **Profit:** $160.30
-* **Details:** 
-* **Things I learned:** <b>1.</b>
 * **Photos:** <img src="pc_build_thirteen.jpg" width="400">
 _______________________________________
 ### Build #12 (RTX 3070 + 5 5600G) 6/26
@@ -74,12 +70,10 @@ Cooler: Air cooler
 
 Case: NZXT
 
-* **Sold On:** 
+* **Sold On:** Facebook Marketplace
 * **Cost:** $90 (CPU) + $175 (GPU) + $50 (MOBO) + $40 (RAM) + $34 (Storage) + $34 (PSU) + $11.70 (Cooler) + $10 (Case) + $90 (friend) = <b>$534.70</b>
 * **Price sold for:** $675
 * **Profit:** $140.5
-* **Details:** 
-* **Things I learned:** <b>1.</b>
 * **Photos:** <img src="pc_build_twelve.jpg" width="400">
 _______________________________________
 ### Build #11 (RTX 3080 + 9 3900X) 6/26
