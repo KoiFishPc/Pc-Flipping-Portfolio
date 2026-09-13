@@ -8,7 +8,7 @@ CPU: Ryzen 5 5800X 8 cores / 16 thread
 
 GPU: GIGABYTE GEFORCE RTX 3080 12GB
 
-MOBO: 
+MOBO: B550M Pro VDH WIFI 
 
 RAM: Trident Royal 16GB - 3600mhz
 
@@ -35,7 +35,7 @@ CPU: Ryzen 5 5600X 6 cores / 12 thread
 
 GPU: GIGABYTE RTX 2070 SUPER 8GB
 
-MOBO: 
+MOBO: ASRock X570M Pro4
 
 RAM: Corsair Vengeance RGB Pro 16gb - 3200mhz
 
