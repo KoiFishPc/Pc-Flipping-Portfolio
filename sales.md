@@ -33,7 +33,7 @@ _______________________________________
 
 CPU: Ryzen 5 5600X 6 cores / 12 thread
 
-GPU: GIGABYTE RTX 3070 8GB
+GPU: GIGABYTE RTX 2070 SUPER 8GB
 
 MOBO: 
 
