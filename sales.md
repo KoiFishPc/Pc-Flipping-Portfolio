@@ -4,7 +4,7 @@ _______________________________________
 ### Build #16 (RTX 3080 + 7 5800X) 9/26
 **Specs:** 
 
-CPU: Ryzen 5 5800X 8 cores / 16 thread
+CPU: Ryzen 7 5800X 8 cores / 16 thread
 
 GPU: GIGABYTE GEFORCE RTX 3080 12GB
 
