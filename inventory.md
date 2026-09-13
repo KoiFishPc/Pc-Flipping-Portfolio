@@ -14,6 +14,8 @@ ____________________________________________________________
 * **Ryzen 5 5600 + Cooler ($80):** USED ---- From a deal
 
 ## GPU
+* **GTX 1080 ($50):** AVAILABLE ---- From PC build #16
+* **RTX 3080 12gb ($310):** AVAILABLE ---- From Facebook Marketplace
 * **RTX 5060 ti 16gb ($455):** AVAILABLE ---- From eBay
 * **GTX 1070 ($40):** AVAILABLE ---- From PC build #10
 ____________________________________________________________
@@ -35,6 +37,9 @@ ____________________________________________________________
 * **Msi B550 ($60):** USED ---- From a deal
 
 ## RAM
+ **Corsair Vengeance RGB Pro 16gb - 3200mhz DDR4 ($46)** USED ---- From PC build #15
+* **T-Force 32g - 5600mhz DDR5 ($200):** AVAILABLE ---- From Facebook Marketplace
+* **RIPJAWS G. Skill 32gb - 6000 mhz DDR5 ($230):** AVAILABLE ---- From Facebook Marketplace
 * **Trident Royal 16GB - 3600mhz DDR4 ($50):** AVAILABLE ---- From Facebook Marketplace
 * **Silicon Power 8gb - 3200mhz DDR4 ($30):** AVAILABLE ---- From a deal
 * **T-Force 8gb - 3200mhz DDR4 RGB ($25):** AVAILABLE ---- From a deal
