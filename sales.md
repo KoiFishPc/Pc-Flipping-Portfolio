@@ -48,7 +48,7 @@ Case: NZXT S340
 PSU: 750W 80+ Gold
 
 * **Sold On:** 
-* **Cost:** 
+* **Cost:** $400 (PC from FB) - $30 (ram from PC) - $125 (CPU from PC) - $20 (cooler from PC) + $75 (CPU) + $34 (storage) + $10 (cooler) = <b>$354</b>
 * **Price sold for:** 
 * **Profit:** 
 * **Details:** 
