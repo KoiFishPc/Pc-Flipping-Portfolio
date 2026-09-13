@@ -1,31 +1,59 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 _______________________________________
-### Build #15 (RTX 3070 + 5 5600X) 9/26
+### Build #16 (RTX 3080 + 7 5800X) 9/26
 **Specs:** 
 
-CPU: Ryzen 5 5600X 8 cores / 16 thread
+CPU: Ryzen 5 5800X 8 cores / 16 thread
 
-GPU: RTX 3070 8GB
+GPU: GIGABYTE GEFORCE RTX 3080 12GB
 
 MOBO: 
 
-RAM: Corsair Vengeance 32gb - 3200mhz
+RAM: Trident Royal 16GB - 3600mhz
 
-Storage: 1TB m.2 nvme ssd
+Storage: SAMSUNG 512 GB m.2 nvme ssd
 
-Cooler: Dual tower air cooler
+Cooler: CORSAIR AIO Cooler
 
-Case: Lian Li 011 Dynamic Mini
+Case: Cooler Master Case
 
-PSU: Cooler Master 850W SFX Modular PSU
-* **Sold On:** Facebook Marketplace
-* **Cost:** $99 (9 3900X) + $275 (RTX 3080) + $40 (X470) + $70 (Corsair 32gb - 3200mhz) + $72 (1TB NVME SSD) + $75 (850W SFX Modular) + $10 (Dual Tower Air Cooler) + $50 (Lian Li O11) + $20 (White Cable Extensions) + $8 (Case fans) = <b>$719</b>
-* **Price sold for:** $925
-* **Profit:** $206
-* **Details:** This pc is probably my best looking one, with the case and psu combined costing $125, which is very expensive for those parts. The profit was worth it though
-* **Things I learned:** <b>1. </b>Maybe don't spend too much money on expensive cases and psus
-* **Photos:** <img src="pc_build_eleven.jpg" width="400">
+PSU: CORSAIR 850W PSU
+
+* **Sold On:** 
+* **Cost:** 
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1. </b>
+* **Photos:** <img src="pc_build_sixteen.jpg" width="400">
+_______________________________________
+### Build #15 (RTX 3070 + 5 5600X) 9/26
+**Specs:** 
+
+CPU: Ryzen 5 5600X 6 cores / 12 thread
+
+GPU: GIGABYTE RTX 3070 8GB
+
+MOBO: 
+
+RAM: Corsair Vengeance RGB Pro 16gb - 3200mhz
+
+Storage: 512 GB m.2 nvme ssd
+
+Cooler: Cooler Master Hyper 212 Air cooler
+
+Case: NZXT S340
+
+PSU: 750W 80+ Gold
+
+* **Sold On:** 
+* **Cost:** 
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1. </b>
+* **Photos:** <img src="pc_build_fifteen.jpg" width="400">
 _______________________________________
 ### Build #14 (RTX 2060 + 7 3700X) 6/26
 **Specs:** 
@@ -125,7 +153,7 @@ PSU: Cooler Master 850W SFX Modular PSU
 * **Price sold for:** $925
 * **Profit:** $206
 * **Details:** This pc is probably my best looking one, with the case and psu combined costing $125, which is very expensive for those parts. The profit was worth it though
-* **Things I learned:** <b>1. </b>Maybe don't spend too much money on expensive cases and psus
+* **Things I learned:** <b>1. Maybe don't spend too much money on expensive cases and psus </b>
 * **Photos:** <img src="pc_build_eleven.jpg" width="400">
 _______________________________________
 ### Build #10 (RTX 2080 + 7 3700X) 4/26
@@ -195,7 +223,7 @@ Cooler: Black Air Cooler
 * **Cost:** $600 - $175 (RTX 3070) + $300 (RTX 3080) + $3.50 (thermaltake fan)= <b>$728.50</b>
 * **Price sold for:** $850
 * **Profit:** $121.50
-* **Details:** This Pc was made using a different pc that had everything inside this one except for the gpu, instead having an rtx 3070. I bought an rtx 3080 to upgrade the pc, and put the rtx 3070 in my storage. The gpu was a little funky at first, being an hp oem model, but after a little bit of thermal pasting, I managed to get it working again.
+* **Details:** This Pc was made using a different pc that had everything inside this one except for the gpu, instead it had an rtx 3070. I bought an rtx 3080 to upgrade the pc, and put the rtx 3070 in my storage. The gpu was a little funky at first, being an hp oem model, but after a little bit of thermal pasting, I managed to get it working again.
 * **Things I learned:** <b>1.</b> Buy gpus from reputable brands
 * **Photos:** <img src="pc_build_eight.jpg" width="400">
 ________________________________________
