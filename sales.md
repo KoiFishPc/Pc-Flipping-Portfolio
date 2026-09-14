@@ -21,7 +21,7 @@ Case: Cooler Master Case
 PSU: CORSAIR 850W PSU
 
 * **Sold On:** 
-* **Cost:** 
+* **Cost:** $375 (PC from FB) - $50 (GPU from PC) - $75 (ram from PC) - $30 (PSU from PC) + $310 (GPU) + $50 (ram) + $20 (PSU) + $20 (cooler) + $18.48 (fans) = <b>$638.48</b>
 * **Price sold for:** 
 * **Profit:** 
 * **Details:** 
