@@ -37,9 +37,10 @@ ____________________________________________________________
 * **Msi B550 ($60):** USED ---- From a deal
 
 ## RAM
-* **Corsair Vengeance RGB Pro 16gb - 3200mhz DDR4 ($30)** USED ---- From PC build #15
-* **T-Force 32g - 5600mhz DDR5 ($200):** AVAILABLE ---- From Facebook Marketplace
+* **Corsair Vengeance RGB Pro 16gb - 3200mhz DDR4 ($30)** AVAILABLE ---- From PC build #15
+* **T-Force 32gb - 5600mhz DDR5 ($200):** AVAILABLE ---- From Facebook Marketplace
 * **RIPJAWS G. Skill 32gb - 6000 mhz DDR5 ($230):** AVAILABLE ---- From Facebook Marketplace
+* **RIPJAWS V 32gb - 3200mhz DDR4 ($75):** AVAILABLE ---- From PC build #16
 * **Trident Royal 16GB - 3600mhz DDR4 ($50):** AVAILABLE ---- From Facebook Marketplace
 * **Silicon Power 8gb - 3200mhz DDR4 ($30):** AVAILABLE ---- From a deal
 * **T-Force 8gb - 3200mhz DDR4 RGB ($25):** AVAILABLE ---- From a deal
@@ -49,7 +50,7 @@ ____________________________________________________________
 * **G.SKILL Ripjaws V 32gb - 2666mhz DDR4 ($35):** USED ---- From a deal
 * **Corsair Vengeance RGB Pro 16gb - 3000mhz DDR4 ($40)** USED ---- From a deal
 * **Silicon Power 8gb - 3200mhz DDR4 ($0):** BROKEN ---- From a deal
-* **Corsair Vengeance 32gb - 3200mhz DDR4 ($70):**USED ---- From a deal
+* **Corsair Vengeance 32gb - 3200mhz DDR4 ($70):** USED ---- From a deal
 * **RipJaws 16gb - 2666mhz DDR4 ($30):** SOLD ---- From a deal
 * **ADATA XPG 16gb - 3000mhz DDR4 RGB ($40):** USED ---- From a free pc that I switched out with the Corsair LED 16gb - 2666mhz
 * **Corsair LED 16gb - 3200mhz DDR4 ($50):** USED ---- From a deal
