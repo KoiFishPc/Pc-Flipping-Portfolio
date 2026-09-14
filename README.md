@@ -11,7 +11,7 @@ This repository serves as technical documentation for my hardware flipping busin
 
 ## Summary Statistics
 * **Amount Started With:** $1300
-* **Current Net Worth:** -$204.44
+* **Current Net Worth:** -$228.74
 * **Total Systems Flipped:** 14
 
 
