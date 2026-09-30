@@ -3,6 +3,7 @@
 
 # Inventory
 ## CPU
+* **Ryzen 5 2600 ($33.96):** AVAILABLE ---- From eBay
 * **Ryzen 7 7700X ($100):** AVAILABLE ---- From Facebook Marketplace
 * **Ryzen 7 5800XT ($144):** AVAILABLE ---- From eBay
 * **Ryzen 3 3100X ($5):** AVAILABLE ---- From PC build #07
@@ -27,6 +28,8 @@ ____________________________________________________________
 * **RTX 3070 ($175):** USED ---- From PC build #08
 
 ## MOTHERBOARD
+* **MSI X470 GAMING PLUS MAX ($49.74):** AVAILABLE ---- From eBay
+* **ROG X570 ($31.90):** AVAILABLE ---- From eBay
 * **MSI B450 Pro Max ($61):** AVAILABLE ---- From Ebay
 * **MSI B650 ($40):** AVAILABLE ---- From a deal
 ____________________________________________________________
@@ -58,12 +61,16 @@ ____________________________________________________________
 * **TEAMGROUP 16gb - 2400mhz DDR4 ($30):** USED ---- From PC build #03
 * 
 ## STORAGE 
-* **512gb nvme ssd 5x ($34 each):** AVAILABLE ---- From eBay
+* **Western digital 512gb nvme ssd ($33.17):** AVAILABLE ---- From eBay
+* **Sandisk 1tb sata ssd ($78.29):** AVAILABLE ---- From eBay
+* **Teamgroup 1tb sata ssd ($73.04):** AVAILABLE ---- From eBay
+* **960gb sata ssd ($65.72):** AVAILABLE ---- From eBay
+* **512gb nvme ssd 4x ($34 each):** AVAILABLE ---- From eBay
 * **SAMSUNG 256gb sata ssd ($15)** AVAILABLE ---- From a deal
 * **1tb hdd:** AVAILABLE ---- From one of the pc builds
 * **512gb hdd:** AVAILABLE ---- From one of the pc builds
 ____________________________________________________________
-* **512gb nvme ssd 2x ($34 each):** USED ---- From eBay
+* **512gb nvme ssd 3x ($34 each):** USED ---- From eBay
 * **Intel 512gb sata ssd ($30):** USED ---- From eBay
 * **512gb nvme ssd 1x ($34 each):** USED ---- From eBay
 * **WD 1tb nvme ssd ($72)** USED ---- From eBay
@@ -86,11 +93,10 @@ ____________________________________________________________
 
 ## COOLER
 * **AIO with screen ($30):** AVAILABLE ---- From Facebook Marketplace
-* **Cooler Master Hyper 212 ($11.7):** AVAILABLE ---- From Amazon
 * **Arctic Liquid Freezer II ($20):** AVAILABLE ---- From PC build #02
 * **AIO Cooler ($25):** AVAILABLE ---- From a deal
 ____________________________________________________________
-* **Cooler Master Hyper 212 2x ($11.7 each):** USED ---- From Amazon
+* **Cooler Master Hyper 212 3x ($11.7 each):** USED ---- From Amazon
 * **Corsair Dual tower air cooler ($10):** USED ---- From a deal
 ## CASE
 * **White Pc Case ($50):** AVAILABLE ---- From Facebook Marketplace
