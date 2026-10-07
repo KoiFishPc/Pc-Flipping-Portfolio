@@ -1,5 +1,61 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
+### Build #18 (GTX 1070 + 5 2600) 9/26
+**Specs:** 
+
+CPU: Ryzen 5 2600 6 cores / 12 thread
+
+GPU: MSI GTX 1070
+
+MOBO: B450M Pro Max 
+
+RAM: Trident Royal 16GB - 2400mhz
+
+Storage: 512GB sata ssd + 1TB hard drive
+
+Cooler: AMD stock cooler
+
+Case: Cyberpower case
+
+PSU: 650W PSU
+
+
+* **Sold On:** 
+* **Cost:** $33.96 (CPU) + $40 (GPU) + $61 (MOBO) + $55 (RAM) + $15 (Storage) + $34 (PSU) + $10 (Case) = $248.96
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1. </b>
+* **Photos:** <img src="pc_build_sixteen.jpg" width="400">
+_______________________________________
+
+### Build #17 (RTX 5060TI + 7 7700X) 9/26
+**Specs:** 
+CPU: Ryzen 7 5800X 8 cores / 16 thread
+
+GPU: GIGABYTE GEFORCE RTX 3080 12GB
+
+MOBO: B550M Pro VDH WIFI 
+
+RAM: Trident Royal 16GB - 3600mhz
+
+Storage: SAMSUNG 512 GB m.2 nvme ssd
+
+Cooler: CORSAIR AIO Cooler
+
+Case: Cooler Master Case
+
+PSU: CORSAIR 850W PSU
+
+
+
+* **Sold On:** 
+* **Cost:** $375 (PC from FB) - $50 (GPU from PC) - $75 (ram from PC) - $30 (PSU from PC) + $310 (GPU) + $50 (ram) + $20 (PSU) + $20 (cooler) + $18.48 (fans) = <b>$638.48</b>
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1. </b>
+* **Photos:** <img src="pc_build_sixteen.jpg" width="400">
 _______________________________________
 ### Build #16 (RTX 3080 + 7 5800X) 9/26
 **Specs:** 
