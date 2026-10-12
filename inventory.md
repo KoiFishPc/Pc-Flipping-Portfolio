@@ -3,11 +3,14 @@
 
 # Inventory
 ## CPU
-* **Ryzen 5 2600 ($33.96):** AVAILABLE ---- From eBay
-* **Ryzen 7 7700X ($100):** AVAILABLE ---- From Facebook Marketplace
+* **Ryzen 7 3800X ($60):** AVAILABLE ---- From Facebook Marketplace
+* **Ryzen 5 7600X ($108.67):** AVAILABLE ---- From eBay
+* **Ryzen 7 7700X ($120):** AVAILABLE ---- From Facebook Marketplace
 * **Ryzen 7 5800XT ($144):** AVAILABLE ---- From eBay
 * **Ryzen 3 3100X ($5):** AVAILABLE ---- From PC build #07
 ____________________________________________________________
+* **Ryzen 7 7700X ($100):** USED ---- From Facebook Marketplace
+* **Ryzen 5 2600 ($33.96):** USED ---- From eBay
 * **Ryzen 5 5600G ($90):** USED---- From a deal
 * **Ryzen 7 3700X ($40):** USED ---- From a deal
 * **Ryzen 7 3700X ($58):** USED ---- From Facebook Marketplace
@@ -15,11 +18,14 @@ ____________________________________________________________
 * **Ryzen 5 5600 + Cooler ($80):** USED ---- From a deal
 
 ## GPU
+* **RTX 5060 ($250):** AVAILABLE ---- Facebook Marketplace
+* **RTX 4070 ti ($520):** AVAILABLE ---- Facebook Marketplace
+* **RTX 2060 Super ($100):** AVAILABLE ---- Facebook Marketplace
 * **GTX 1080 ($50):** AVAILABLE ---- From PC build #16
 * **RTX 3080 12gb ($310):** AVAILABLE ---- From Facebook Marketplace
-* **RTX 5060 ti 16gb ($455):** AVAILABLE ---- From eBay
-* **GTX 1070 ($40):** AVAILABLE ---- From PC build #10
 ____________________________________________________________
+* **GTX 1070 ($40):** USED ---- From PC build #10
+* **RTX 5060 ti 16gb ($455):** USED ---- From eBay
 * **RTX 3070 ($175):** USED ---- From a deal
 * **RTX 2060 6gb ($40):** USED ---- From a deal
 * **RTX 2080 Super ($80):** USED ---- From Facebook Marketplace
@@ -28,11 +34,12 @@ ____________________________________________________________
 * **RTX 3070 ($175):** USED ---- From PC build #08
 
 ## MOTHERBOARD
+* **AsRock B550M-C ($66.32):** AVAILABLE ---- From eBay
+* **GIGABYTE B550 ($66.87):** AVAILABLE ---- From eBay
 * **MSI X470 GAMING PLUS MAX ($49.74):** AVAILABLE ---- From eBay
-* **ROG X570 ($31.90):** AVAILABLE ---- From eBay
-* **MSI B450 Pro Max ($61):** AVAILABLE ---- From Ebay
-* **MSI B650 ($40):** AVAILABLE ---- From a deal
 ____________________________________________________________
+* **MSI B650 ($40):** USED ---- From a deal
+* **MSI B450 Pro Max ($61):** USED ---- From Ebay
 * **ROG X570 ($31.90):** Broken ---- From eBay
 * **ASUS ROG Strix B550-F ($66):** USED ---- From Ebay
 * **ASUS PRIME B550-Plus ($78):** USED ---- From Ebay
@@ -43,13 +50,13 @@ ____________________________________________________________
 ## RAM
 * **Corsair Vengeance RGB Pro 16gb - 3200mhz DDR4 ($30)** AVAILABLE ---- From PC build #15
 * **T-Force 32gb - 5600mhz DDR5 ($200):** AVAILABLE ---- From Facebook Marketplace
-* **RIPJAWS G. Skill 32gb - 6000 mhz DDR5 ($230):** AVAILABLE ---- From Facebook Marketplace
 * **RIPJAWS V 32gb - 3200mhz DDR4 ($75):** AVAILABLE ---- From PC build #16
 * **Trident Royal 16GB - 3600mhz DDR4 ($50):** AVAILABLE ---- From Facebook Marketplace
-* **Silicon Power 8gb - 3200mhz DDR4 ($30):** AVAILABLE ---- From a deal
-* **T-Force 8gb - 3200mhz DDR4 RGB ($25):** AVAILABLE ---- From a deal
 * **Trident Royal 32GB - 4000mhz DDR4 ($90):** AVAILABLE ---- From PC build #07
 ____________________________________________________________
+* **Silicon Power 8gb - 3200mhz DDR4 ($30):** USED ---- From a deal
+* **T-Force 8gb - 3200mhz DDR4 RGB ($25):** USED ---- From a deal
+* **RIPJAWS G. Skill 32gb - 6000 mhz DDR5 ($230):** USED ---- From Facebook Marketplace
 * **Corsair Vengeance RGB Pro 16gb - 3200mhz DDR4 ($46)** USED ---- eBay
 * **G.SKILL Ripjaws V 32gb - 2666mhz DDR4 ($35):** USED ---- From a deal
 * **Corsair Vengeance RGB Pro 16gb - 3000mhz DDR4 ($40)** USED ---- From a deal
@@ -67,13 +74,12 @@ ____________________________________________________________
 * **Teamgroup 1tb sata ssd ($73.04):** AVAILABLE ---- From eBay
 * **960gb sata ssd ($65.72):** AVAILABLE ---- From eBay
 * **512gb nvme ssd 4x ($34 each):** AVAILABLE ---- From eBay
-* **SAMSUNG 256gb sata ssd ($15)** AVAILABLE ---- From a deal
-* **1tb hdd:** AVAILABLE ---- From one of the pc builds
 * **512gb hdd:** AVAILABLE ---- From one of the pc builds
 ____________________________________________________________
-* **512gb nvme ssd 3x ($34 each):** USED ---- From eBay
+* **SAMSUNG 256gb sata ssd ($15)** USED ---- From a deal
+* **1tb hdd:** USED ---- From one of the pc builds
+* **512gb nvme ssd 4x ($34 each):** USED ---- From eBay
 * **Intel 512gb sata ssd ($30):** USED ---- From eBay
-* **512gb nvme ssd 1x ($34 each):** USED ---- From eBay
 * **WD 1tb nvme ssd ($72)** USED ---- From eBay
 * **2tb sata ssd ($65):** RETURNED ---- From eBay
 * **1tb sata ssd ($60):** USED ---- From PC build #04
@@ -81,11 +87,12 @@ ____________________________________________________________
 * **240gb sata ssd:** BROKEN ---- from one of the pc builds
 
 ## PSU
-* **SeaSonic 860W ($40):** AVAILBALE ---- From Facebook Marketplace
+* **EVGA 650W ($30):** AVAILABLE ---- IDK where
 * **EVGA 650W ($30):** AVAILABLE ---- From Facebook Marketplace
 * **RAIDMAX 650W 3x ($34 each):** AVAILABLE ---- From newegg
-* **850w modular ($20):** AVAILABLE ---- From a deal
 ____________________________________________________________
+* **850w modular ($20):** USED ---- From a deal
+* **SeaSonic 860W ($40):** USED ---- From Facebook Marketplace
 * **MSI 500W ($25):** USED ---- From a deal
 * **RAIDMAX 650W 3x ($34 each):** USED ---- From newegg
 * **850W Modular SFX ($75):** USED ---- From Ebay
@@ -93,17 +100,17 @@ ____________________________________________________________
 * **SEGOTEP GM 850W ($25):** USED---- From a deal
 
 ## COOLER
-* **AIO with screen ($30):** AVAILABLE ---- From Facebook Marketplace
 * **Arctic Liquid Freezer II ($20):** AVAILABLE ---- From PC build #02
 * **AIO Cooler ($25):** AVAILABLE ---- From a deal
 ____________________________________________________________
+* **AIO with screen ($30):** USED ---- From Facebook Marketplace
 * **Cooler Master Hyper 212 3x ($11.7 each):** USED ---- From Amazon
 * **Corsair Dual tower air cooler ($10):** USED ---- From a deal
 ## CASE
-* **White Pc Case ($50):** AVAILABLE ---- From Facebook Marketplace
 * **Lian Li V100 ($55):** AVAILABLE ---- From Amazon
-* **IBUYPOWER PC case ($10):** AVAILABLE ---- From PC build #03
 ____________________________________________________________
+* **IBUYPOWER PC case ($10):** USED ---- From PC build #03
+* **White Pc Case ($50):** USED ---- From Facebook Marketplace
 * **Phantek Enthoo Pro M ($20):** USED ---- From Facebook Marketplace
 * **SAMA 4503 ($55):** USED ---- From Amazon
 * **Gamdias Pc Case ($38.75 each):** USED ---- From Amazon
@@ -112,11 +119,12 @@ ____________________________________________________________
 * **MSI case ($25):** USED ---- From a deal
 
 ## OTHER
-* **Mirror case fans 9x ($6.16 each):** AVAILABLE ---- From Amazon
+* **Mirror case fans 3x ($6.16 each):** AVAILABLE ---- From Amazon
 * **45g Arctic Mx-4 Thermal Paste ($22):** AVAILABLE ---- From Amazon
 * **RGB HUB ($6):** AVAILABLE ---- From Aliexpress
 * **Zip Ties ($6):** AVAILABLE ---- From Amazon
 ____________________________________________________________
+* **Mirror case fans 6x ($6.16 each):** AVAILABLE ---- From Amazon
 * **AsianHorse Extension Cables ($22):** USED ---- From Amazon
 * **AsianHorse Extension Cables ($20):** USED ---- From Amazon
 * **3x Thermaltake fans ($10.50):** USED ---- From Amazon
