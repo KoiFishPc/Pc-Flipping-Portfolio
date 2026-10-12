@@ -18,6 +18,7 @@ ____________________________________________________________
 * **Ryzen 5 5600 + Cooler ($80):** USED ---- From a deal
 
 ## GPU
+* **RX 6800XT ($280):** AVAILABLE ---- Facebook Marketplace
 * **RTX 5060 ($250):** AVAILABLE ---- Facebook Marketplace
 * **RTX 4070 ti ($520):** AVAILABLE ---- Facebook Marketplace
 * **RTX 2060 Super ($100):** AVAILABLE ---- Facebook Marketplace
