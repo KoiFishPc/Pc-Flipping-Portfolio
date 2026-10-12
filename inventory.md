@@ -33,6 +33,7 @@ ____________________________________________________________
 * **MSI B450 Pro Max ($61):** AVAILABLE ---- From Ebay
 * **MSI B650 ($40):** AVAILABLE ---- From a deal
 ____________________________________________________________
+* **ROG X570 ($31.90):** Broken ---- From eBay
 * **ASUS ROG Strix B550-F ($66):** USED ---- From Ebay
 * **ASUS PRIME B550-Plus ($78):** USED ---- From Ebay
 * **MSI b450 Pro max ($50):** USED ---- From a deal
