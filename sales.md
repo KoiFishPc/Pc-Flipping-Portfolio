@@ -1,6 +1,6 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
-### Build #18 (GTX 1070 + 5 2600) 9/26
+### Build #18 (GTX 1070 + 5 2600) 10/26
 **Specs:** 
 
 CPU: Ryzen 5 2600 6 cores / 12 thread
@@ -19,43 +19,41 @@ Case: Cyberpower case
 
 PSU: 650W PSU
 
-
-* **Sold On:** 
+* **Sold On:** Facebook Marketplace
 * **Cost:** $33.96 (CPU) + $40 (GPU) + $61 (MOBO) + $55 (RAM) + $15 (Storage) + $34 (PSU) + $10 (Case) = $248.96
-* **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** <b>1. </b>
-* **Photos:** <img src="pc_build_sixteen.jpg" width="400">
+* **Price sold for:** $400
+* **Profit:** $151.04
+* **Details:** Not that big of a profit but it was a quick sale
+* **Things I learned:** <b>1. </b>rgb asthetics don't matter that much when selling cheap pc's
+* **Photos:** <img src="pc_build_eighteen.jpg" width="400">
 _______________________________________
 
 ### Build #17 (RTX 5060TI + 7 7700X) 9/26
-**Specs:** 
-CPU: Ryzen 7 5800X 8 cores / 16 thread
+**Specs:**
 
-GPU: GIGABYTE GEFORCE RTX 3080 12GB
+CPU: AMD Ryzen 7 7700X (8 Cores / 16 Threads)
 
-MOBO: B550M Pro VDH WIFI 
+GPU: PNY GeForce RTX 5060 Ti 16GB 
 
-RAM: Trident Royal 16GB - 3600mhz
+Motherboard: MSI MAG B650 Tomahawk WIFI 
 
-Storage: SAMSUNG 512 GB m.2 nvme ssd
+RAM: 32GB G.Skill Ripjaws DDR5 6000MHz 
 
-Cooler: CORSAIR AIO Cooler
+Storage: 512GB M.2 NVMe SSD + 512gb M.2 NVMe SSD
 
-Case: Cooler Master Case
+CPU Cooler: AIO Liquid Cooler with built-in LCD Screen
 
-PSU: CORSAIR 850W PSU
+Case: Sleek White Gaming Case with optimal airflow
 
+Power Supply: Seasonic 860W
 
-
-* **Sold On:** 
-* **Cost:** $375 (PC from FB) - $50 (GPU from PC) - $75 (ram from PC) - $30 (PSU from PC) + $310 (GPU) + $50 (ram) + $20 (PSU) + $20 (cooler) + $18.48 (fans) = <b>$638.48</b>
-* **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** <b>1. </b>
-* **Photos:** <img src="pc_build_sixteen.jpg" width="400">
+* **Sold On:** Facebook Marketplace
+* **Cost:** $100 (CPU) + $455.10 (GPU) + $40 (MOBO) + $230 (ram) + $68 (storage) + $40 (PSU) + $30 (cooler) + $50 (case) + $18.48 (fans) = <b>$1,031.58</b>
+* **Price sold for:** $1375
+* **Profit:** $343.42
+* **Details:** Buyer asked for an extra 512gb of storage for an extra $50. Strongest PC, biggest profit
+* **Things I learned:** <b>1. </b> Ai is useful for creating listing descriptions
+* **Photos:** <img src="pc_build_seventeen.jpg" width="400">
 _______________________________________
 ### Build #16 (RTX 3080 + 7 5800X) 9/26
 **Specs:** 
@@ -103,12 +101,12 @@ Case: NZXT S340
 
 PSU: 750W 80+ Gold
 
-* **Sold On:** 
+* **Sold On:** Facebook Marketplace
 * **Cost:** $400 (PC from FB) - $30 (ram from PC) - $125 (CPU from PC) - $20 (cooler from PC) + $75 (CPU) + $34 (storage) + $10 (cooler) = <b>$344</b>
-* **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** <b>1. </b>
+* **Price sold for:** $600
+* **Profit:** $256
+* **Details:** Very nice buyer. The original pc said it had a 3070, but actually had a 2070 super so I had to ask for a partial refund.
+* **Things I learned:** <b>1. </b> ask for reviews
 * **Photos:** <img src="pc_build_fifteen.jpg" width="400">
 _______________________________________
 ### Build #14 (RTX 2060 + 7 3700X) 6/26
