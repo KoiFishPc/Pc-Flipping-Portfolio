@@ -1,5 +1,32 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
+### Build #19 (RTX 4070 + i7 13700F) 10/26
+**Specs:** 
+
+CPU: i7 13700F  16 cores / 24 threads
+
+GPU: RTX 4070
+
+MOBO: B660
+
+RAM: 16gb ddr5 5600mhz
+
+Storage: 1tb m.2 nvme ssd
+
+Cooler: Air cooler
+
+Case: MSI CASE
+
+PSU: Highpower 650W PSU
+
+* **Sold On:** 
+* **Cost:** $850
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1. </b>
+* **Photos:** <img src="pc_build_nineteen.jpg" width="400">
+_______________________________________
 ### Build #18 (GTX 1070 + 5 2600) 10/26
 **Specs:** 
 
