@@ -101,12 +101,12 @@ Case: Cooler Master Case
 
 PSU: CORSAIR 850W PSU
 
-* **Sold On:** 
+* **Sold On:** Facebook Marketplace
 * **Cost:** $375 (PC from FB) - $50 (GPU from PC) - $75 (ram from PC) - $30 (PSU from PC) + $310 (GPU) + $50 (ram) + $20 (PSU) + $20 (cooler) + $18.48 (fans) = <b>$638.48</b>
-* **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** <b>1. </b>
+* **Price sold for:** $875
+* **Profit:** $236.52
+* **Details:** Took a very long time to sell
+* **Things I learned:** <b>1. Don't add unnessary fans </b>
 * **Photos:** <img src="pc_build_sixteen.jpg" width="400">
 _______________________________________
 ### Build #15 (RTX 3070 + 5 5600X) 9/26
