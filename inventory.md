@@ -3,6 +3,7 @@
 
 # Inventory
 ## CPU
+* **Ryzen 7 5800X ($161.65):** AVAILABLE ---- From eBay
 * **Ryzen 7 3800X ($60):** AVAILABLE ---- From Facebook Marketplace
 * **Ryzen 5 7600X ($108.67):** AVAILABLE ---- From eBay
 * **Ryzen 7 7700X ($120):** AVAILABLE ---- From Facebook Marketplace
@@ -94,6 +95,7 @@ ____________________________________________________________
 * **240gb sata ssd:** BROKEN ---- from one of the pc builds
 
 ## PSU
+* **EVGA SuperNOVA 850 P2 ($37.84):** AVAILABLE ---- From eBay
 * **EVGA 1000W SuperNOVA GT ($40):** AVAILABLE ---- From eBay
 * **GAMEMAX 650W RGB ($30):** AVAILABLE ---- From eBay
 * **EVGA 650W BQ ($30):** AVAILABLE ---- IDK where
@@ -120,6 +122,7 @@ ____________________________________________________________
 * **Corsair Dual tower air cooler ($10):** USED ---- From a deal
   
 ## CASE
+* **EVGA DG-7 ($10):** AVAILABLE ---- from Facebook Marketplace
 * **Formula V Line Air Power G1 3x ($44.21 each):** AVAILABLE ---- From Newegg
 * **Gamdias AURA GC1 ELITE 4x ($44.11 each):** AVAILABLLE ---- From Newegg
 * **AeroCool D502A ($53.05):** AVAILABLE ---- From Amazon
@@ -135,6 +138,8 @@ ____________________________________________________________
 * **MSI case ($25):** USED ---- From a deal
 
 ## OTHER
+* **RGB to sata 3x ($3.75 each):** AVAILABLE ---- From Aliexpress
+* **Mirror case fans 3x ($10.47):** AVAILABLE ---- From Aliexpress
 * **Thermalright fans 5x ($23.10):** AVAILABLE ---- From Amazon
 * **Mirror case fans 3x ($6.16 each):** AVAILABLE ---- From Amazon
 * **45g Arctic Mx-4 Thermal Paste ($22):** AVAILABLE ---- From Amazon
