@@ -36,6 +36,8 @@ ____________________________________________________________
 * **RTX 3070 ($175):** USED ---- From PC build #08
 
 ## MOTHERBOARD
+* **ASUS TUF Gaming B550-PLUS WiFi II ($35.38):** AVAILABLE ---- From eBay
+* **GIGABYTE B650M C V3 ($38.69):** AVAILABLE ---- From eBay
 * **Gigabyte B850 GAMING WIFI6 ($82.90):** AVAILABLE ---- From eBay
 * **GIGABYTE B650 AORUS Elite AX ($77.16):** AVAILABLE ---- From eBay
 * **MSI B550M PRO-VDH WIFI ($38.69):** AVAILABLE ---- From eBay
