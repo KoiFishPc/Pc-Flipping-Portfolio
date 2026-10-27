@@ -140,7 +140,7 @@ ____________________________________________________________
 * **MSI case ($25):** USED ---- From a deal
 
 ## OTHER
-* **RGB to sata 3x ($3.75 each):** AVAILABLE ---- From Aliexpress
+* **RGB to SATA adapters 3x ($3.75 each):** AVAILABLE ---- From Aliexpress
 * **Mirror case fans 3x ($10.47):** AVAILABLE ---- From Aliexpress
 * **Thermalright fans 5x ($23.10):** AVAILABLE ---- From Amazon
 * **Mirror case fans 3x ($6.16 each):** AVAILABLE ---- From Amazon
