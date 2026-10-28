@@ -1,6 +1,7 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
-### Build #19 (RTX 4070 + i7 13700F) 10/26
+___________________________________________
+### Build #20 (GTX 2060 SUPER + 7 3800X) 10/26
 **Specs:** 
 
 CPU: i7 13700F  16 cores / 24 threads
@@ -21,6 +22,33 @@ PSU: Highpower 650W PSU
 
 * **Sold On:** 
 * **Cost:** $850
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1. </b>
+* **Photos:** <img src="pc_build_nineteen.jpg" width="400">
+___________________________________________
+### Build #19 (RTX 4070 + i7 13700F) 10/26
+**Specs:** 
+
+CPU: i7 13700F  16 cores / 24 threads
+
+GPU: RTX 4070
+
+MOBO: B660
+
+RAM: 16gb ddr5 5600mhz
+
+Storage: 1tb m.2 nvme ssd
+
+Cooler: Air cooler
+
+Case: MSI CASE
+
+PSU: Highpower 650W PSU
+
+* **Sold On:** 
+* **Cost:** $60 (CPU) + $100 (GPU) + $49.74 (MOBO) + $30 (RAM) + $34 (Storage) + $34 (PSU) + $13.50 (Cooler) + $10 (case) + $8.83 (other) = $340.7
 * **Price sold for:** 
 * **Profit:** 
 * **Details:** 
