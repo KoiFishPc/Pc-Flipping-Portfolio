@@ -4,21 +4,21 @@ ___________________________________________
 ### Build #20 (GTX 2060 SUPER + 7 3800X) 10/26
 **Specs:** 
 
-CPU: i7 13700F  16 cores / 24 threads
+CPU: AMD Ryzen 7 3800X (8C/16T)
 
-GPU: RTX 4070
+GPU: MSI GeForce RTX 2060 SUPER Gaming X 8GB 
 
-MOBO: B660
+Motherboard: MSI X470 Gaming Plus Max 
 
-RAM: 16gb ddr5 5600mhz
+RAM: Corsair Vengeance RGB Pro 16GB (2x8GB) 3200MHz 
 
-Storage: 1tb m.2 nvme ssd
+Storage: 512GB NVMe SSD 
 
-Cooler: Air cooler
+Cooler: Cooler Master Hyper 212 
 
-Case: MSI CASE
+PSU: RAIDMAX Cobra 650W 
 
-PSU: Highpower 650W PSU
+Case: EVGA DG-7 Series 
 
 * **Sold On:** 
 * **Cost:** $60 (CPU) + $100 (GPU) + $49.74 (MOBO) + $30 (RAM) + $34 (Storage) + $34 (PSU) + $13.50 (Cooler) + $10 (case) + $8.83 (other) = $340.7
