@@ -1,6 +1,50 @@
 # Sales History
 [🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
 ___________________________________________
+### Build #21 (RX 6800XT + Ryzen 7 5800XT) 10/26
+**Specs:** 
+Processor (CPU): Intel i7 11700F (8 Cores / 16 Threads)
+
+Graphics Card (GPU): RTX 3070 (8GB GDDR6 VRAM)
+
+Memory (RAM): 16GB (2x8GB) DDR4-3200 MHz
+
+Storage: HPE 960GB SATA III
+
+* **Sold On:** 
+* **Cost:** $350
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1. </b>
+* **Photos:** <img src="pc_build_twentytwo.jpg" width="400">
+___________________________________________
+### Build #21 (RX 6800XT + Ryzen 7 5800XT) 10/26
+**Specs:** 
+Processor (CPU): AMD Ryzen 7 5800XT (8 Cores / 16 Threads)
+
+Graphics Card (GPU): AMD Radeon RX 6800 XT (16GB GDDR6 VRAM)
+
+Memory (RAM): 32GB (2x16GB) G.Skill Ripjaws V DDR4-3200 MHz
+
+Storage: 1TB Teamgroup Vulcan Z SATA SSD
+
+Motherboard: ASRock B550M-C 
+
+Cooling: Thermalright Aqua Elite 360 V6 AIO Liquid Cooler
+
+Power Supply: EVGA SuperNOVA 650W G2 
+
+Case: Lian Li Vector V100
+
+* **Sold On:** 
+* **Cost:** $144 (CPU) + $280 (GPU) + $66.32 (MOBO) + $75 (RAM) + $73.04 (Storage) + $30 (PSU) + $59.24 (Cooler) + $55 (case) + $23.10 (fans) + $3.75 (other) = $809.45
+* **Price sold for:** 
+* **Profit:** 
+* **Details:** 
+* **Things I learned:** <b>1. </b>
+* **Photos:** <img src="pc_build_twentyone.jpg" width="400">
+___________________________________________
 ### Build #20 (GTX 2060 SUPER + 7 3800X) 10/26
 **Specs:** 
 
@@ -26,7 +70,7 @@ Case: EVGA DG-7 Series
 * **Profit:** 
 * **Details:** 
 * **Things I learned:** <b>1. </b>
-* **Photos:** <img src="pc_build_nineteen.jpg" width="400">
+* **Photos:** <img src="pc_build_twenty.jpg" width="400">
 ___________________________________________
 ### Build #19 (RTX 4070 + i7 13700F) 10/26
 **Specs:** 
