@@ -21,7 +21,7 @@ Case: MSI CASE
 PSU: Highpower 650W PSU
 
 * **Sold On:** 
-* **Cost:** $850
+* **Cost:** $60 (CPU) + $100 (GPU) + $49.74 (MOBO) + $30 (RAM) + $34 (Storage) + $34 (PSU) + $13.50 (Cooler) + $10 (case) + $8.83 (other) = $340.7
 * **Price sold for:** 
 * **Profit:** 
 * **Details:** 
@@ -48,7 +48,7 @@ Case: MSI CASE
 PSU: Highpower 650W PSU
 
 * **Sold On:** 
-* **Cost:** $60 (CPU) + $100 (GPU) + $49.74 (MOBO) + $30 (RAM) + $34 (Storage) + $34 (PSU) + $13.50 (Cooler) + $10 (case) + $8.83 (other) = $340.7
+* **Cost:** $850
 * **Price sold for:** 
 * **Profit:** 
 * **Details:** 
