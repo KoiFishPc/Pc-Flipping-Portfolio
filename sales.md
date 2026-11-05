@@ -7,7 +7,13 @@
 ## Build #22 · RTX 3070 / Intel i7-11700F
 *October 2026*
 
-**CPU** Intel i7-11700F · **GPU** RTX 3070 8GB · **RAM** 16GB DDR4-3200 · **Storage** HPE 960GB SATA III
+GPU: RTX 3070 (8GB GDDR6 VRAM)
+
+CPU: Intel i7-11700F (8 Cores / 16 Threads)
+
+RAM: 16GB (2x8GB) DDR4-3200
+
+Storage: HPE 960GB SATA III
 
 **Cost:** $350 · **Sold:** — · **Profit:** —
 
@@ -18,8 +24,21 @@
 ## Build #21 · RX 6800 XT / Ryzen 7 5800XT
 *October 2026*
 
-**CPU** Ryzen 7 5800XT · **GPU** Radeon RX 6800 XT 16GB · **RAM** 32GB DDR4-3200 · **Storage** 1TB Teamgroup Vulcan Z SATA SSD  
-**Motherboard** ASRock B550M-C · **Cooling** Thermalright Aqua Elite 360 V6 · **PSU** EVGA SuperNOVA 650W G2 · **Case** Lian Li Vector V100
+GPU: AMD Radeon RX 6800 XT (16GB GDDR6 VRAM)
+
+CPU: AMD Ryzen 7 5800XT (8 Cores / 16 Threads)
+
+Cooler: Thermalright Aqua Elite 360 V6 AIO Liquid Cooler
+
+RAM: 32GB (2x16GB) G.Skill Ripjaws V DDR4-3200
+
+Storage: 1TB Teamgroup Vulcan Z SATA SSD
+
+Motherboard: ASRock B550M-C
+
+Power Supply: EVGA SuperNOVA 650W G2
+
+Case: Lian Li Vector V100
 
 **Cost:** $809.45 · **Sold:** — · **Profit:** —
 
@@ -30,8 +49,21 @@
 ## Build #20 · RTX 2060 SUPER / Ryzen 7 3800X
 *October 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 7 3800X · **GPU** MSI RTX 2060 SUPER Gaming X 8GB · **Motherboard** MSI X470 Gaming Plus Max  
-**RAM** Corsair Vengeance RGB Pro 16GB · **Storage** 512GB NVMe SSD · **Cooler** Cooler Master Hyper 212 · **PSU** RAIDMAX Cobra 650W · **Case** EVGA DG-7
+GPU: MSI GeForce RTX 2060 SUPER GAMING X (8GB GDDR6 VRAM)
+
+CPU: AMD Ryzen 7 3800X (8 Cores / 16 Threads, 4.5 GHz Boost)
+
+Cooler: Cooler Master Hyper 212
+
+RAM: 16GB (2x8GB) Corsair Vengeance RGB Pro DDR4-3200
+
+Storage: 512GB NVMe SSD
+
+Motherboard: MSI X470 GAMING PLUS MAX
+
+Power Supply: RAIDMAX Cobra 650W
+
+Case: EVGA DG-7 Series
 
 **Cost:** $340.70 · **Sold:** $450 · **Profit:** $109.30
 
@@ -46,8 +78,21 @@ The RAM turned out to be broken, so I replaced it for the buyer. The buyer was U
 ## Build #19 · RTX 4070 / Intel i7-13700F
 *October 2026*
 
-**CPU** i7-13700F · **GPU** RTX 4070 · **Motherboard** B660 · **RAM** 16GB DDR5-5600  
-**Storage** 1TB M.2 NVMe SSD · **Cooler** Air cooler · **Case** MSI · **PSU** Highpower 650W
+GPU: RTX 4070
+
+CPU: Intel i7-13700F (16 Cores / 24 Threads)
+
+Cooler: Air cooler
+
+RAM: 16GB DDR5-5600
+
+Storage: 1TB M.2 NVMe SSD
+
+Motherboard: B660
+
+Power Supply: Highpower 650W
+
+Case: MSI
 
 **Cost:** $850 · **Sold:** — · **Profit:** —
 
@@ -58,8 +103,21 @@ The RAM turned out to be broken, so I replaced it for the buyer. The buyer was U
 ## Build #18 · GTX 1070 / Ryzen 5 2600
 *October 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 5 2600 · **GPU** MSI GTX 1070 · **Motherboard** B450M Pro Max · **RAM** Trident Royal 16GB-2400  
-**Storage** 512GB SATA SSD + 1TB HDD · **Cooler** AMD stock cooler · **Case** Cyberpower · **PSU** 650W
+GPU: MSI GTX 1070
+
+CPU: AMD Ryzen 5 2600 (6 Cores / 12 Threads)
+
+Cooler: AMD stock cooler
+
+RAM: Trident Royal 16GB-2400
+
+Storage: 512GB SATA SSD + 1TB HDD
+
+Motherboard: B450M Pro Max
+
+Power Supply: 650W
+
+Case: Cyberpower
 
 **Cost:** $248.96 · **Sold:** $400 · **Profit:** $151.04
 
@@ -73,9 +131,21 @@ A quick sale, despite the modest profit.
 ## Build #17 · RTX 5060 Ti / Ryzen 7 7700X
 *September 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 7 7700X · **GPU** PNY RTX 5060 Ti 16GB · **Motherboard** MSI MAG B650 Tomahawk WiFi  
-**RAM** 32GB G.Skill Ripjaws DDR5-6000 · **Storage** 1TB M.2 NVMe SSD · **Cooler** AIO with LCD screen  
-**Case** White airflow case · **PSU** Seasonic 860W
+GPU: PNY GeForce RTX 5060 Ti (16GB)
+
+CPU: AMD Ryzen 7 7700X (8 Cores / 16 Threads)
+
+Cooler: AIO liquid cooler with built-in LCD screen
+
+RAM: 32GB G.Skill Ripjaws DDR5-6000
+
+Storage: 1TB M.2 NVMe SSD (2x 512GB)
+
+Motherboard: MSI MAG B650 Tomahawk WiFi
+
+Power Supply: Seasonic 860W
+
+Case: Sleek white gaming case with optimal airflow
 
 **Cost:** $1,031.58 · **Sold:** $1,375 · **Profit:** $343.42
 
@@ -89,8 +159,21 @@ The buyer added 512GB of storage for $50. This was my strongest PC and biggest p
 ## Build #16 · RTX 3080 / Ryzen 7 5800X
 *September 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 7 5800X · **GPU** Gigabyte RTX 3080 12GB · **Motherboard** B550M Pro VDH WiFi · **RAM** Trident Royal 16GB-3600  
-**Storage** Samsung 512GB M.2 NVMe SSD · **Cooler** Corsair AIO · **Case** Cooler Master · **PSU** Corsair 850W
+GPU: Gigabyte GeForce RTX 3080 (12GB)
+
+CPU: AMD Ryzen 7 5800X (8 Cores / 16 Threads)
+
+Cooler: Corsair AIO cooler
+
+RAM: Trident Royal 16GB DDR4-3600
+
+Storage: Samsung 512GB M.2 NVMe SSD
+
+Motherboard: B550M Pro VDH WiFi
+
+Power Supply: Corsair 850W
+
+Case: Cooler Master
 
 **Cost:** $638.48 · **Sold:** $875 · **Profit:** $236.52
 
@@ -104,9 +187,21 @@ This PC took a long time to sell.
 ## Build #15 · RTX 2070 SUPER / Ryzen 5 5600X
 *September 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 5 5600X · **GPU** Gigabyte RTX 2070 SUPER 8GB · **Motherboard** ASRock X570M Pro4  
-**RAM** Corsair Vengeance RGB Pro 16GB-3200 · **Storage** 512GB M.2 NVMe SSD · **Cooler** Cooler Master Hyper 212  
-**Case** NZXT S340 · **PSU** 750W 80+ Gold
+GPU: Gigabyte RTX 2070 SUPER (8GB)
+
+CPU: AMD Ryzen 5 5600X (6 Cores / 12 Threads)
+
+Cooler: Cooler Master Hyper 212
+
+RAM: 16GB Corsair Vengeance RGB Pro DDR4-3200
+
+Storage: 512GB M.2 NVMe SSD
+
+Motherboard: ASRock X570M Pro4
+
+Power Supply: 750W 80+ Gold
+
+Case: NZXT S340
 
 **Cost:** $344 · **Sold:** $600 · **Profit:** $256
 
@@ -120,8 +215,21 @@ The original PC was advertised with an RTX 3070, but had an RTX 2070 SUPER, so I
 ## Build #14 · RTX 2060 / Ryzen 7 3700X
 *June 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 7 3700X · **GPU** RTX 2060 6GB · **Motherboard** ASUS PRIME B550-Plus · **RAM** Teamgroup 32GB DDR4-2666  
-**Storage** 512GB M.2 NVMe SSD · **PSU** MSI MAG 500W · **Cooler** Air cooler · **Case** Phanteks
+GPU: RTX 2060 (6GB)
+
+CPU: AMD Ryzen 7 3700X (8 Cores / 16 Threads)
+
+Cooler: Air cooler
+
+RAM: 32GB Teamgroup DDR4-2666
+
+Storage: 512GB M.2 NVMe SSD
+
+Motherboard: ASUS PRIME B550-Plus
+
+Power Supply: MSI MAG 500W
+
+Case: Phanteks
 
 **Cost:** $291.70 · **Sold:** $500 · **Profit:** $208.30
 
@@ -132,8 +240,21 @@ The original PC was advertised with an RTX 3070, but had an RTX 2070 SUPER, so I
 ## Build #13 · RTX 2080 SUPER / Ryzen 7 3700X
 *June 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 7 3700X · **GPU** RTX 2080 SUPER 8GB · **Motherboard** ASUS PRIME B550-Plus · **RAM** Corsair 16GB DDR4-3200 RGB  
-**Storage** 512GB M.2 NVMe SSD · **PSU** RAIDMAX 650W · **Cooler** Air cooler · **Case** Sama Neview 4503
+GPU: RTX 2080 SUPER (8GB)
+
+CPU: AMD Ryzen 7 3700X (8 Cores / 16 Threads)
+
+Cooler: Air cooler
+
+RAM: 16GB Corsair DDR4-3200 RGB
+
+Storage: 512GB M.2 NVMe SSD
+
+Motherboard: ASUS PRIME B550-Plus
+
+Power Supply: RAIDMAX 650W
+
+Case: Sama Neview 4503
 
 **Cost:** $489.70 · **Sold:** $650 · **Profit:** $160.30
 
@@ -144,8 +265,21 @@ The original PC was advertised with an RTX 3070, but had an RTX 2070 SUPER, so I
 ## Build #12 · RTX 3070 / Ryzen 5 5600G
 *June 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 5 5600G · **GPU** RTX 3070 8GB · **Motherboard** MSI B450-A PRO MAX · **RAM** Corsair 16GB DDR4-3000 RGB  
-**Storage** 512GB M.2 NVMe SSD · **PSU** RAIDMAX 650W · **Cooler** Air cooler · **Case** NZXT
+GPU: RTX 3070 (8GB)
+
+CPU: AMD Ryzen 5 5600G (6 Cores / 12 Threads)
+
+Cooler: Air cooler
+
+RAM: 16GB Corsair DDR4-3000 RGB
+
+Storage: 512GB M.2 NVMe SSD
+
+Motherboard: MSI B450-A PRO MAX
+
+Power Supply: RAIDMAX 650W
+
+Case: NZXT
 
 **Cost:** $534.70 · **Sold:** $675 · **Profit:** $140.50
 
@@ -156,8 +290,21 @@ The original PC was advertised with an RTX 3070, but had an RTX 2070 SUPER, so I
 ## Build #11 · RTX 3080 / Ryzen 9 3900X
 *June 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 9 3900X · **GPU** RTX 3080 10GB · **Motherboard** MSI X470 Gaming Pro Carbon · **RAM** Corsair Vengeance 32GB-3200  
-**Storage** 1TB M.2 NVMe SSD · **Cooler** Dual-tower air cooler · **Case** Lian Li O11 Dynamic Mini · **PSU** Cooler Master 850W SFX modular
+GPU: RTX 3080 (10GB)
+
+CPU: AMD Ryzen 9 3900X (12 Cores / 24 Threads)
+
+Cooler: Dual-tower air cooler
+
+RAM: 32GB Corsair Vengeance DDR4-3200
+
+Storage: 1TB M.2 NVMe SSD
+
+Motherboard: MSI X470 Gaming Pro Carbon
+
+Power Supply: Cooler Master 850W SFX Modular
+
+Case: Lian Li O11 Dynamic Mini
 
 **Sold:** $925 · **Profit:** $206
 
@@ -171,8 +318,19 @@ This was probably my best-looking PC. The case and PSU together cost $125, which
 ## Build #10 · RTX 2080 / Ryzen 7 3700X
 *April 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 7 3700X · **GPU** RTX 2080 8GB · **Motherboard** ASRock B550 · **RAM** Teamgroup 16GB DDR4-3600  
-**Storage** 1TB M.2 NVMe SSD · **Cooler** Air cooler · **Case** NZXT S340
+GPU: RTX 2080 (8GB)
+
+CPU: AMD Ryzen 7 3700X (8 Cores / 16 Threads)
+
+Cooler: Air cooler
+
+RAM: 16GB Teamgroup DDR4-3600
+
+Storage: 1TB M.2 NVMe SSD
+
+Motherboard: ASRock B550
+
+Case: NZXT S340
 
 **Cost:** $375.50 · **Sold:** $600 · **Profit:** $224.50
 
@@ -186,8 +344,21 @@ Built by upgrading another PC with an RTX 2080. The case was missing screws and 
 ## Build #09 · RTX 3070 / Ryzen 5 5600
 *April 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 5 5600 · **GPU** RTX 3070 8GB · **Motherboard** MSI B550 · **RAM** ADATA XPG 16GB DDR4-3000 RGB  
-**Storage** 1TB SSD · **Cooler** AMD stock cooler
+GPU: RTX 3070 (8GB)
+
+CPU: AMD Ryzen 5 5600 (6 Cores / 12 Threads)
+
+Cooler: AMD stock cooler
+
+RAM: 16GB ADATA XPG DDR4-3000 RGB
+
+Storage: 1TB SSD
+
+Motherboard: MSI B550
+
+Power Supply: SEGOTEP GM 850W
+
+Case: MSI
 
 **Cost:** $465 · **Sold:** $725 · **Profit:** $260
 
@@ -201,8 +372,17 @@ Built using components from storage and parts bought at good prices.
 ## Build #08 · RTX 3080 / Intel i7-12700F
 *March 2026 · Facebook Marketplace*
 
-**CPU** Intel Core i7-12700F · **GPU** RTX 3080 10GB · **Motherboard** Gigabyte B660 · **RAM** T-Force RGB 32GB DDR4-4000  
-**Storage** 1TB M.2 NVMe SSD · **Cooler** Black air cooler
+GPU: RTX 3080 (10GB)
+
+CPU: Intel Core i7-12700F (12 Cores / 20 Threads)
+
+Cooler: Black air cooler
+
+RAM: 32GB T-Force RGB DDR4-4000
+
+Storage: 1TB M.2 NVMe SSD
+
+Motherboard: Gigabyte B660
 
 **Cost:** $728.50 · **Sold:** $850 · **Profit:** $121.50
 
@@ -216,8 +396,17 @@ Upgraded another PC by replacing its RTX 3070 with an RTX 3080, then used the RT
 ## Build #07 · RTX 3080 / Ryzen 7 5800X
 *March 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 7 5800X · **GPU** RTX 3080 10GB · **Motherboard** B550 · **RAM** Corsair LED 16GB DDR4-3200  
-**Storage** 512GB M.2 NVMe SSD + 512GB SATA SSD · **Cooler** Corsair RGB AIO
+GPU: RTX 3080 (10GB)
+
+CPU: AMD Ryzen 7 5800X (8 Cores / 16 Threads)
+
+Cooler: Corsair RGB AIO
+
+RAM: 16GB Corsair LED DDR4-3200
+
+Storage: 512GB M.2 NVMe SSD + 512GB SATA SSD
+
+Motherboard: B550
 
 **Cost:** $668.50 · **Sold:** $900 · **Profit:** $231.50
 
@@ -231,8 +420,21 @@ Upgraded a PC with an RTX 3080 and Ryzen 7 5800X, moving its RTX 3070 into Build
 ## Build #06 · RTX 3070 / Ryzen 5 5600X
 *March 2026 · OfferUp*
 
-**CPU** Ryzen 5 5600X · **GPU** EVGA RTX 3070 XC3 8GB · **Motherboard** ASUS B450M · **RAM** T-Force Vulcan Z 16GB DDR4-3000  
-**Storage** 512GB M.2 NVMe SSD · **Cooler** Black air cooler · **PSU** Seasonic 750W Gold · **Case** Aura
+GPU: EVGA RTX 3070 XC3 (8GB GDDR6)
+
+CPU: AMD Ryzen 5 5600X (6 Cores / 12 Threads)
+
+Cooler: Black air cooler
+
+RAM: 16GB T-Force Vulcan Z DDR4-3000
+
+Storage: 512GB M.2 NVMe SSD
+
+Motherboard: ASUS B450M
+
+Power Supply: Seasonic 750W Gold
+
+Case: Aura
 
 **Cost:** $650 · **Sold:** $700 · **Profit:** $50
 
@@ -246,8 +448,21 @@ Originally bought a PC with an RTX 3080 and swapped in an RTX 3070 from another 
 ## Build #05 · RTX 3080 / Intel i7-10700K
 *February 2026 · Facebook Marketplace*
 
-**CPU** i7-10700K · **GPU** EVGA RTX 3080 FTW3 10GB · **Motherboard** ASUS Z590 · **RAM** Corsair RGB 16GB  
-**Storage** 1TB M.2 NVMe SSD · **Cooler** Corsair AIO · **PSU** Corsair 850W · **Case** Corsair
+GPU: EVGA RTX 3080 FTW3 (10GB)
+
+CPU: Intel i7-10700K (8 Cores / 16 Threads)
+
+Cooler: Corsair AIO
+
+RAM: 16GB Corsair RGB
+
+Storage: 1TB M.2 NVMe SSD
+
+Motherboard: ASUS Z590
+
+Power Supply: Corsair 850W
+
+Case: Corsair
 
 **Cost:** $700 · **Sold:** $850 · **Profit:** $150
 
@@ -261,8 +476,21 @@ Bought at a good price on OfferUp, cleaned it, and relisted it without replacing
 ## Build #04 · GTX 1060 / Ryzen 5 1500X
 *February 2026 · Facebook Marketplace*
 
-**CPU** Ryzen 5 1500X · **GPU** GTX 1060 · **Motherboard** ASUS B350M Gaming Pro · **RAM** 16GB DDR4-2400  
-**Storage** 512GB Samsung SATA SSD · **Cooling** AIO · **PSU** Corsair CX750W · **Case** Zalman
+GPU: GTX 1060
+
+CPU: AMD Ryzen 5 1500X
+
+Cooler: AIO cooler
+
+RAM: 16GB DDR4-2400
+
+Storage: 512GB Samsung SATA SSD
+
+Motherboard: ASUS B350M Gaming Pro
+
+Power Supply: Corsair CX750W
+
+Case: Zalman
 
 **Cost:** $135 · **Sold:** $225 · **Profit:** $90
 
@@ -276,8 +504,21 @@ Bought mainly to downgrade parts and keep the better components for future build
 ## Build #03 · RTX 2070 / Intel i7-8700
 *February 2026 · Facebook Marketplace*
 
-**CPU** Intel Core i7-8700 · **GPU** MSI RTX 2070 8GB · **RAM** 16GB DDR4-2400 · **Storage** 1TB Western Digital SATA SSD  
-**Motherboard** ASUS B360M-A · **Cooler** AIO liquid cooler · **PSU** Thermaltake Smart 600W · **Case** SAMA SV02
+GPU: MSI RTX 2070 (8GB)
+
+CPU: Intel Core i7-8700
+
+Cooler: AIO liquid cooler
+
+RAM: 16GB (2x8GB) DDR4-2400
+
+Storage: 1TB Western Digital SATA SSD
+
+Motherboard: ASUS B360M-A (mATX)
+
+Power Supply: Thermaltake Smart 600W
+
+Case: SAMA SV02
 
 **Cost:** $440 · **Sold:** $510 · **Profit:** $70
 
@@ -291,8 +532,21 @@ Bought a PC and upgraded its case before reselling. I also tried paying a friend
 ## Build #02 · RTX 3080 / Ryzen 7 5800X
 *January 2026 · Jawa.gg*
 
-**CPU** Ryzen 7 5800X · **GPU** Gigabyte Eagle RTX 3080 · **RAM** ADATA 32GB DDR4-3600 · **Storage** 1TB Inland Premium NVMe SSD  
-**Motherboard** Gigabyte Vision D-P B550M · **Cooler** Thermalright Aqua Elite 360 V6 · **PSU** EVGA SuperNOVA 750W G+ · **Case** XPG Invader X ATX
+GPU: Gigabyte Eagle RTX 3080
+
+CPU: AMD Ryzen 7 5800X
+
+Cooler: Thermalright Aqua Elite 360 V6
+
+RAM: 32GB ADATA DDR4-3600
+
+Storage: 1TB Inland Premium NVMe SSD
+
+Motherboard: Gigabyte Vision D-P B550M
+
+Power Supply: EVGA SuperNOVA 750W G+
+
+Case: XPG Invader X ATX
 
 **Sold:** $920 · **Profit:** $170
 
@@ -306,8 +560,19 @@ My first build upgraded from a prebuilt PC. I replaced its GTX 1080 with an RTX 
 ## Build #01 · GTX 1080 / Intel i5-10400
 *September 2025 · Jawa.gg*
 
-**CPU** Intel i5-10400 · **GPU** EVGA GeForce GTX 1080 · **Motherboard** MSI H510M-B · **RAM** Corsair Vengeance RGB Pro 16GB DDR4-3200  
-**Storage** Patriot 1TB M.2 NVMe SSD · **PSU** EVGA BR 500W · **Case** DIYPC ARGB-G5-BK
+GPU: EVGA GeForce GTX 1080
+
+CPU: Intel i5-10400 (6 Cores / 8 Threads)
+
+RAM: 16GB Corsair Vengeance RGB Pro DDR4-3200
+
+Storage: Patriot 1TB M.2 NVMe SSD
+
+Motherboard: MSI H510M-B
+
+Power Supply: EVGA BR 500W
+
+Case: DIYPC ARGB-G5-BK
 
 **Cost:** $429 · **Sold:** $455 · **Profit:** $26
 
