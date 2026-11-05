@@ -64,12 +64,12 @@ PSU: RAIDMAX Cobra 650W
 
 Case: EVGA DG-7 Series 
 
-* **Sold On:** 
+* **Sold On:** Facebook Marketplace
 * **Cost:** $60 (CPU) + $100 (GPU) + $49.74 (MOBO) + $30 (RAM) + $34 (Storage) + $34 (PSU) + $13.50 (Cooler) + $10 (case) + $8.83 (other) = $340.7
-* **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** <b>1. </b>
+* **Price sold for:** $450
+* **Profit:** $109.30
+* **Details:** The ram turned out to be broken so I had to replace it for the buyer. The buyer was actually Harun Zrno, a UW basketball player who is actually very good.
+* **Things I learned:** <b>1. Stress test system more thoroughly</b>
 * **Photos:** <img src="pc_build_twenty.jpg" width="400">
 ___________________________________________
 ### Build #19 (RTX 4070 + i7 13700F) 10/26
