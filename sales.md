@@ -1,558 +1,317 @@
 # Sales History
-[🏠 Home](README.md) | [💰 Sales History](sales.md) | [📦 Current Inventory](inventory.md) 
-___________________________________________
-### Build #21 (RX 6800XT + Ryzen 7 5800XT) 10/26
-**Specs:** 
-Processor (CPU): Intel i7 11700F (8 Cores / 16 Threads)
 
-Graphics Card (GPU): RTX 3070 (8GB GDDR6 VRAM)
+[🏠 Home](README.md) · [💰 Sales History](sales.md) · [📦 Current Inventory](inventory.md)
 
-Memory (RAM): 16GB (2x8GB) DDR4-3200 MHz
+---
 
-Storage: HPE 960GB SATA III
+## Build #22 · RTX 3070 / Intel i7-11700F
+*October 2026*
 
-* **Sold On:** 
-* **Cost:** $350
-* **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** <b>1. </b>
-* **Photos:** <img src="pc_build_twentytwo.jpg" width="400">
-___________________________________________
-### Build #21 (RX 6800XT + Ryzen 7 5800XT) 10/26
-**Specs:** 
-Processor (CPU): AMD Ryzen 7 5800XT (8 Cores / 16 Threads)
+**CPU** Intel i7-11700F · **GPU** RTX 3070 8GB · **RAM** 16GB DDR4-3200 · **Storage** HPE 960GB SATA III
 
-Graphics Card (GPU): AMD Radeon RX 6800 XT (16GB GDDR6 VRAM)
+**Cost:** $350 · **Sold:** — · **Profit:** —
 
-Memory (RAM): 32GB (2x16GB) G.Skill Ripjaws V DDR4-3200 MHz
+![Build #22](pc_build_twentytwo.jpg)
 
-Storage: 1TB Teamgroup Vulcan Z SATA SSD
+---
 
-Motherboard: ASRock B550M-C 
+## Build #21 · RX 6800 XT / Ryzen 7 5800XT
+*October 2026*
 
-Cooling: Thermalright Aqua Elite 360 V6 AIO Liquid Cooler
+**CPU** Ryzen 7 5800XT · **GPU** Radeon RX 6800 XT 16GB · **RAM** 32GB DDR4-3200 · **Storage** 1TB Teamgroup Vulcan Z SATA SSD  
+**Motherboard** ASRock B550M-C · **Cooling** Thermalright Aqua Elite 360 V6 · **PSU** EVGA SuperNOVA 650W G2 · **Case** Lian Li Vector V100
 
-Power Supply: EVGA SuperNOVA 650W G2 
+**Cost:** $809.45 · **Sold:** — · **Profit:** —
 
-Case: Lian Li Vector V100
+![Build #21](pc_build_twentyone.jpg)
 
-* **Sold On:** 
-* **Cost:** $144 (CPU) + $280 (GPU) + $66.32 (MOBO) + $75 (RAM) + $73.04 (Storage) + $30 (PSU) + $59.24 (Cooler) + $55 (case) + $23.10 (fans) + $3.75 (other) = $809.45
-* **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** <b>1. </b>
-* **Photos:** <img src="pc_build_twentyone.jpg" width="400">
-___________________________________________
-### Build #20 (GTX 2060 SUPER + 7 3800X) 10/26
-**Specs:** 
+---
 
-CPU: AMD Ryzen 7 3800X (8C/16T)
+## Build #20 · RTX 2060 SUPER / Ryzen 7 3800X
+*October 2026 · Facebook Marketplace*
 
-GPU: MSI GeForce RTX 2060 SUPER Gaming X 8GB 
+**CPU** Ryzen 7 3800X · **GPU** MSI RTX 2060 SUPER Gaming X 8GB · **Motherboard** MSI X470 Gaming Plus Max  
+**RAM** Corsair Vengeance RGB Pro 16GB · **Storage** 512GB NVMe SSD · **Cooler** Cooler Master Hyper 212 · **PSU** RAIDMAX Cobra 650W · **Case** EVGA DG-7
 
-Motherboard: MSI X470 Gaming Plus Max 
+**Cost:** $340.70 · **Sold:** $450 · **Profit:** $109.30
 
-RAM: Corsair Vengeance RGB Pro 16GB (2x8GB) 3200MHz 
+The RAM turned out to be broken, so I replaced it for the buyer. The buyer was UW basketball player Harun Zrno.
 
-Storage: 512GB NVMe SSD 
+**Lesson:** Stress-test systems more thoroughly.
 
-Cooler: Cooler Master Hyper 212 
+![Build #20](pc_build_twenty.jpg)
 
-PSU: RAIDMAX Cobra 650W 
+---
 
-Case: EVGA DG-7 Series 
+## Build #19 · RTX 4070 / Intel i7-13700F
+*October 2026*
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $60 (CPU) + $100 (GPU) + $49.74 (MOBO) + $30 (RAM) + $34 (Storage) + $34 (PSU) + $13.50 (Cooler) + $10 (case) + $8.83 (other) = $340.7
-* **Price sold for:** $450
-* **Profit:** $109.30
-* **Details:** The ram turned out to be broken so I had to replace it for the buyer. The buyer was actually Harun Zrno, a UW basketball player who is actually very good.
-* **Things I learned:** <b>1. Stress test system more thoroughly</b>
-* **Photos:** <img src="pc_build_twenty.jpg" width="400">
-___________________________________________
-### Build #19 (RTX 4070 + i7 13700F) 10/26
-**Specs:** 
+**CPU** i7-13700F · **GPU** RTX 4070 · **Motherboard** B660 · **RAM** 16GB DDR5-5600  
+**Storage** 1TB M.2 NVMe SSD · **Cooler** Air cooler · **Case** MSI · **PSU** Highpower 650W
 
-CPU: i7 13700F  16 cores / 24 threads
+**Cost:** $850 · **Sold:** — · **Profit:** —
 
-GPU: RTX 4070
+![Build #19](pc_build_nineteen.jpg)
 
-MOBO: B660
+---
 
-RAM: 16gb ddr5 5600mhz
+## Build #18 · GTX 1070 / Ryzen 5 2600
+*October 2026 · Facebook Marketplace*
 
-Storage: 1tb m.2 nvme ssd
+**CPU** Ryzen 5 2600 · **GPU** MSI GTX 1070 · **Motherboard** B450M Pro Max · **RAM** Trident Royal 16GB-2400  
+**Storage** 512GB SATA SSD + 1TB HDD · **Cooler** AMD stock cooler · **Case** Cyberpower · **PSU** 650W
 
-Cooler: Air cooler
+**Cost:** $248.96 · **Sold:** $400 · **Profit:** $151.04
 
-Case: MSI CASE
+A quick sale, despite the modest profit.  
+**Lesson:** RGB aesthetics matter less when selling budget PCs.
 
-PSU: Highpower 650W PSU
+![Build #18](pc_build_eighteen.jpg)
 
-* **Sold On:** 
-* **Cost:** $850
-* **Price sold for:** 
-* **Profit:** 
-* **Details:** 
-* **Things I learned:** <b>1. </b>
-* **Photos:** <img src="pc_build_nineteen.jpg" width="400">
-_______________________________________
-### Build #18 (GTX 1070 + 5 2600) 10/26
-**Specs:** 
+---
 
-CPU: Ryzen 5 2600 6 cores / 12 thread
+## Build #17 · RTX 5060 Ti / Ryzen 7 7700X
+*September 2026 · Facebook Marketplace*
 
-GPU: MSI GTX 1070
+**CPU** Ryzen 7 7700X · **GPU** PNY RTX 5060 Ti 16GB · **Motherboard** MSI MAG B650 Tomahawk WiFi  
+**RAM** 32GB G.Skill Ripjaws DDR5-6000 · **Storage** 1TB M.2 NVMe SSD · **Cooler** AIO with LCD screen  
+**Case** White airflow case · **PSU** Seasonic 860W
 
-MOBO: B450M Pro Max 
+**Cost:** $1,031.58 · **Sold:** $1,375 · **Profit:** $343.42
 
-RAM: Trident Royal 16GB - 2400mhz
+The buyer added 512GB of storage for $50. This was my strongest PC and biggest profit.  
+**Lesson:** AI can help create listing descriptions.
 
-Storage: 512GB sata ssd + 1TB hard drive
+![Build #17](pc_build_seventeen.jpg)
 
-Cooler: AMD stock cooler
+---
 
-Case: Cyberpower case
+## Build #16 · RTX 3080 / Ryzen 7 5800X
+*September 2026 · Facebook Marketplace*
 
-PSU: 650W PSU
+**CPU** Ryzen 7 5800X · **GPU** Gigabyte RTX 3080 12GB · **Motherboard** B550M Pro VDH WiFi · **RAM** Trident Royal 16GB-3600  
+**Storage** Samsung 512GB M.2 NVMe SSD · **Cooler** Corsair AIO · **Case** Cooler Master · **PSU** Corsair 850W
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $33.96 (CPU) + $40 (GPU) + $61 (MOBO) + $55 (RAM) + $15 (Storage) + $34 (PSU) + $10 (Case) = $248.96
-* **Price sold for:** $400
-* **Profit:** $151.04
-* **Details:** Not that big of a profit but it was a quick sale
-* **Things I learned:** <b>1. </b>rgb asthetics don't matter that much when selling cheap pc's
-* **Photos:** <img src="pc_build_eighteen.jpg" width="400">
-_______________________________________
+**Cost:** $638.48 · **Sold:** $875 · **Profit:** $236.52
 
-### Build #17 (RTX 5060TI + 7 7700X) 9/26
-**Specs:**
+This PC took a long time to sell.  
+**Lesson:** Avoid unnecessary fans.
 
-CPU: AMD Ryzen 7 7700X (8 Cores / 16 Threads)
+![Build #16](pc_build_sixteen.jpg)
 
-GPU: PNY GeForce RTX 5060 Ti 16GB 
+---
 
-Motherboard: MSI MAG B650 Tomahawk WIFI 
+## Build #15 · RTX 2070 SUPER / Ryzen 5 5600X
+*September 2026 · Facebook Marketplace*
 
-RAM: 32GB G.Skill Ripjaws DDR5 6000MHz 
+**CPU** Ryzen 5 5600X · **GPU** Gigabyte RTX 2070 SUPER 8GB · **Motherboard** ASRock X570M Pro4  
+**RAM** Corsair Vengeance RGB Pro 16GB-3200 · **Storage** 512GB M.2 NVMe SSD · **Cooler** Cooler Master Hyper 212  
+**Case** NZXT S340 · **PSU** 750W 80+ Gold
 
-Storage: 512GB M.2 NVMe SSD + 512gb M.2 NVMe SSD
+**Cost:** $344 · **Sold:** $600 · **Profit:** $256
 
-CPU Cooler: AIO Liquid Cooler with built-in LCD Screen
+The original PC was advertised with an RTX 3070, but had an RTX 2070 SUPER, so I requested a partial refund.  
+**Lesson:** Ask buyers for reviews.
 
-Case: Sleek White Gaming Case with optimal airflow
+![Build #15](pc_build_fifteen.jpg)
 
-Power Supply: Seasonic 860W
+---
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $100 (CPU) + $455.10 (GPU) + $40 (MOBO) + $230 (ram) + $68 (storage) + $40 (PSU) + $30 (cooler) + $50 (case) + $18.48 (fans) = <b>$1,031.58</b>
-* **Price sold for:** $1375
-* **Profit:** $343.42
-* **Details:** Buyer asked for an extra 512gb of storage for an extra $50. Strongest PC, biggest profit
-* **Things I learned:** <b>1. </b> Ai is useful for creating listing descriptions
-* **Photos:** <img src="pc_build_seventeen.jpg" width="400">
-_______________________________________
-### Build #16 (RTX 3080 + 7 5800X) 9/26
-**Specs:** 
+## Build #14 · RTX 2060 / Ryzen 7 3700X
+*June 2026 · Facebook Marketplace*
 
-CPU: Ryzen 7 5800X 8 cores / 16 thread
+**CPU** Ryzen 7 3700X · **GPU** RTX 2060 6GB · **Motherboard** ASUS PRIME B550-Plus · **RAM** Teamgroup 32GB DDR4-2666  
+**Storage** 512GB M.2 NVMe SSD · **PSU** MSI MAG 500W · **Cooler** Air cooler · **Case** Phanteks
 
-GPU: GIGABYTE GEFORCE RTX 3080 12GB
+**Cost:** $291.70 · **Sold:** $500 · **Profit:** $208.30
 
-MOBO: B550M Pro VDH WIFI 
+![Build #14](pc_build_fourteen.jpg)
 
-RAM: Trident Royal 16GB - 3600mhz
+---
 
-Storage: SAMSUNG 512 GB m.2 nvme ssd
+## Build #13 · RTX 2080 SUPER / Ryzen 7 3700X
+*June 2026 · Facebook Marketplace*
 
-Cooler: CORSAIR AIO Cooler
+**CPU** Ryzen 7 3700X · **GPU** RTX 2080 SUPER 8GB · **Motherboard** ASUS PRIME B550-Plus · **RAM** Corsair 16GB DDR4-3200 RGB  
+**Storage** 512GB M.2 NVMe SSD · **PSU** RAIDMAX 650W · **Cooler** Air cooler · **Case** Sama Neview 4503
 
-Case: Cooler Master Case
+**Cost:** $489.70 · **Sold:** $650 · **Profit:** $160.30
 
-PSU: CORSAIR 850W PSU
+![Build #13](pc_build_thirteen.jpg)
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $375 (PC from FB) - $50 (GPU from PC) - $75 (ram from PC) - $30 (PSU from PC) + $310 (GPU) + $50 (ram) + $20 (PSU) + $20 (cooler) + $18.48 (fans) = <b>$638.48</b>
-* **Price sold for:** $875
-* **Profit:** $236.52
-* **Details:** Took a very long time to sell
-* **Things I learned:** <b>1. Don't add unnessary fans </b>
-* **Photos:** <img src="pc_build_sixteen.jpg" width="400">
-_______________________________________
-### Build #15 (RTX 3070 + 5 5600X) 9/26
-**Specs:** 
+---
 
-CPU: Ryzen 5 5600X 6 cores / 12 thread
+## Build #12 · RTX 3070 / Ryzen 5 5600G
+*June 2026 · Facebook Marketplace*
 
-GPU: GIGABYTE RTX 2070 SUPER 8GB
+**CPU** Ryzen 5 5600G · **GPU** RTX 3070 8GB · **Motherboard** MSI B450-A PRO MAX · **RAM** Corsair 16GB DDR4-3000 RGB  
+**Storage** 512GB M.2 NVMe SSD · **PSU** RAIDMAX 650W · **Cooler** Air cooler · **Case** NZXT
 
-MOBO: ASRock X570M Pro4
+**Cost:** $534.70 · **Sold:** $675 · **Profit:** $140.50
 
-RAM: Corsair Vengeance RGB Pro 16gb - 3200mhz
+![Build #12](pc_build_twelve.jpg)
 
-Storage: 512 GB m.2 nvme ssd
+---
 
-Cooler: Cooler Master Hyper 212 Air cooler
+## Build #11 · RTX 3080 / Ryzen 9 3900X
+*June 2026 · Facebook Marketplace*
 
-Case: NZXT S340
+**CPU** Ryzen 9 3900X · **GPU** RTX 3080 10GB · **Motherboard** MSI X470 Gaming Pro Carbon · **RAM** Corsair Vengeance 32GB-3200  
+**Storage** 1TB M.2 NVMe SSD · **Cooler** Dual-tower air cooler · **Case** Lian Li O11 Dynamic Mini · **PSU** Cooler Master 850W SFX modular
 
-PSU: 750W 80+ Gold
+**Sold:** $925 · **Profit:** $206
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $400 (PC from FB) - $30 (ram from PC) - $125 (CPU from PC) - $20 (cooler from PC) + $75 (CPU) + $34 (storage) + $10 (cooler) = <b>$344</b>
-* **Price sold for:** $600
-* **Profit:** $256
-* **Details:** Very nice buyer. The original pc said it had a 3070, but actually had a 2070 super so I had to ask for a partial refund.
-* **Things I learned:** <b>1. </b> ask for reviews
-* **Photos:** <img src="pc_build_fifteen.jpg" width="400">
-_______________________________________
-### Build #14 (RTX 2060 + 7 3700X) 6/26
-**Specs:** 
+This was probably my best-looking PC. The case and PSU together cost $125, which was expensive for those parts. The profit made it worthwhile.  
+**Lesson:** Avoid overspending on cases and PSUs.
 
-CPU: Ryzen 7 3700X 8 cores / 16 threads
+![Build #11](pc_build_eleven.jpg)
 
-GPU: RTX 2060 6GB
+---
 
-MOBO: ASUS PRIME B550-Plus
+## Build #10 · RTX 2080 / Ryzen 7 3700X
+*April 2026 · Facebook Marketplace*
 
-RAM: Teamgroup 32gb - 2666mhz DDR4
+**CPU** Ryzen 7 3700X · **GPU** RTX 2080 8GB · **Motherboard** ASRock B550 · **RAM** Teamgroup 16GB DDR4-3600  
+**Storage** 1TB M.2 NVMe SSD · **Cooler** Air cooler · **Case** NZXT S340
 
-Storage: 512 GB m.2 nvme ssd
+**Cost:** $375.50 · **Sold:** $600 · **Profit:** $224.50
 
-PSU: 500W MSI MAG
+Built by upgrading another PC with an RTX 2080. The case was missing screws and a PSU bracket, which I replaced from my own inventory.  
+**Lesson:** Recommend other parts you have to buyers.
 
-Cooler: Air cooler
+![Build #10](pc_build_ten.jpg)
 
-Case: Phanteks case
+---
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $40 (CPU) + $40 (GPU) + $86 (MOBO) + $35 (RAM) + $34 (Storage) + $25 (PSU) + $11.70 (Cooler) + $20 (Case) = <b>$291.70</b>
-* **Price sold for:** $500
-* **Profit:** $208.30
-* **Photos:** <img src="pc_build_fourteen.jpg" width="400">
-_______________________________________
-### Build #13 (RTX 2080 SUPER + 7 3700X) 6/26
-**Specs:** 
+## Build #09 · RTX 3070 / Ryzen 5 5600
+*April 2026 · Facebook Marketplace*
 
-CPU: Ryzen 7 3700X 8 cores / 16 threads 
+**CPU** Ryzen 5 5600 · **GPU** RTX 3070 8GB · **Motherboard** MSI B550 · **RAM** ADATA XPG 16GB DDR4-3000 RGB  
+**Storage** 1TB SSD · **Cooler** AMD stock cooler
 
-GPU: RTX 2080 SUPER 8GB
+**Cost:** $465 · **Sold:** $725 · **Profit:** $260
 
-MOBO: ASUS PRIME B550-PLUS
+Built using components from storage and parts bought at good prices.  
+**Lesson:** Combining well-priced parts can lead to a strong profit.
 
-RAM: Corsair 16gb - 3200mhz DDR4 RGB
+![Build #09](pc_build_nine.jpg)
 
-Storage: 512 GB m.2 nvme ssd
+---
 
-PSU: 650W RAIDMAX
+## Build #08 · RTX 3080 / Intel i7-12700F
+*March 2026 · Facebook Marketplace*
 
-Cooler: Air cooler
+**CPU** Intel Core i7-12700F · **GPU** RTX 3080 10GB · **Motherboard** Gigabyte B660 · **RAM** T-Force RGB 32GB DDR4-4000  
+**Storage** 1TB M.2 NVMe SSD · **Cooler** Black air cooler
 
-Case: Sama Neview 4503
+**Cost:** $728.50 · **Sold:** $850 · **Profit:** $121.50
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $58 (CPU) + $80 (GPU) + $83.70 (MOBO) + $48 (RAM) + $34 (Storage) + $34 (PSU) + $0 (Cooler) + $55 (Case) + $22 (Cable Extension) + $75 (friend) = <b>$489.70</b>
-* **Price sold for:** $650
-* **Profit:** $160.30
-* **Photos:** <img src="pc_build_thirteen.jpg" width="400">
-_______________________________________
-### Build #12 (RTX 3070 + 5 5600G) 6/26
-**Specs:** 
+Upgraded another PC by replacing its RTX 3070 with an RTX 3080, then used the RTX 3070 in another build.  
+**Lesson:** Buy GPUs from reputable brands.
 
-CPU: Ryzen 5 5600G 6 cores / 12 threads 
+![Build #08](pc_build_eight.jpg)
 
-GPU: RTX 3070 8GB
+---
 
-MOBO: MSI B450-A PRO MAX
+## Build #07 · RTX 3080 / Ryzen 7 5800X
+*March 2026 · Facebook Marketplace*
 
-RAM: Corsair 16gb - 3000mhz DDR4 RGB
+**CPU** Ryzen 7 5800X · **GPU** RTX 3080 10GB · **Motherboard** B550 · **RAM** Corsair LED 16GB DDR4-3200  
+**Storage** 512GB M.2 NVMe SSD + 512GB SATA SSD · **Cooler** Corsair RGB AIO
 
-Storage: 512 GB m.2 nvme ssd
+**Cost:** $668.50 · **Sold:** $900 · **Profit:** $231.50
 
-PSU: 650W RAIDMAX
+Upgraded a PC with an RTX 3080 and Ryzen 7 5800X, moving its RTX 3070 into Build #06.  
+**Lesson:** Swapping parts and reselling can be straightforward.
 
-Cooler: Air cooler
+![Build #07](pc_build_seven.jpg)
 
-Case: NZXT
+---
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $90 (CPU) + $175 (GPU) + $50 (MOBO) + $40 (RAM) + $34 (Storage) + $34 (PSU) + $11.70 (Cooler) + $10 (Case) + $90 (friend) = <b>$534.70</b>
-* **Price sold for:** $675
-* **Profit:** $140.5
-* **Photos:** <img src="pc_build_twelve.jpg" width="400">
-_______________________________________
-### Build #11 (RTX 3080 + 9 3900X) 6/26
-**Specs:** 
+## Build #06 · RTX 3070 / Ryzen 5 5600X
+*March 2026 · OfferUp*
 
-CPU: Ryzen 9 3900X 12 cores / 24 thread
+**CPU** Ryzen 5 5600X · **GPU** EVGA RTX 3070 XC3 8GB · **Motherboard** ASUS B450M · **RAM** T-Force Vulcan Z 16GB DDR4-3000  
+**Storage** 512GB M.2 NVMe SSD · **Cooler** Black air cooler · **PSU** Seasonic 750W Gold · **Case** Aura
 
-GPU: RTX 3080 10GB
+**Cost:** $650 · **Sold:** $700 · **Profit:** $50
 
-MOBO: MSI X470 Gaming Pro Carbon
+Originally bought a PC with an RTX 3080 and swapped in an RTX 3070 from another PC.  
+**Lesson:** Swapping parts and reselling can be straightforward.
 
-RAM: Corsair Vengeance 32gb - 3200mhz
+![Build #06](pc_build_six.jpg)
 
-Storage: 1TB m.2 nvme ssd
+---
 
-Cooler: Dual tower air cooler
+## Build #05 · RTX 3080 / Intel i7-10700K
+*February 2026 · Facebook Marketplace*
 
-Case: Lian Li 011 Dynamic Mini
+**CPU** i7-10700K · **GPU** EVGA RTX 3080 FTW3 10GB · **Motherboard** ASUS Z590 · **RAM** Corsair RGB 16GB  
+**Storage** 1TB M.2 NVMe SSD · **Cooler** Corsair AIO · **PSU** Corsair 850W · **Case** Corsair
 
-PSU: Cooler Master 850W SFX Modular PSU
-* **Sold On:** Facebook Marketplace
-* **Cost:** $99 (9 3900X) + $275 (RTX 3080) + $40 (X470) + $70 (Corsair 32gb - 3200mhz) + $72 (1TB NVME SSD) + $75 (850W SFX Modular) + $10 (Dual Tower Air Cooler) + $50 (Lian Li O11) + $20 (White Cable Extensions) + $8 (Case fans) = <b>$719</b>
-* **Price sold for:** $925
-* **Profit:** $206
-* **Details:** This pc is probably my best looking one, with the case and psu combined costing $125, which is very expensive for those parts. The profit was worth it though
-* **Things I learned:** <b>1. Maybe don't spend too much money on expensive cases and psus </b>
-* **Photos:** <img src="pc_build_eleven.jpg" width="400">
-_______________________________________
-### Build #10 (RTX 2080 + 7 3700X) 4/26
-**Specs:** 
+**Cost:** $700 · **Sold:** $850 · **Profit:** $150
 
-CPU: Ryzen 7 3700X 8 cores / 16 thread
+Bought at a good price on OfferUp, cleaned it, and relisted it without replacing any parts.  
+**Lesson:** Sometimes you can simply clean and relist a PC.
 
-GPU: RTX 2080 8GB
+![Build #05](pc_build_five.jpg)
 
-MOBO: Asrock B550
+---
 
-RAM: Teamgroup 16gb - 3600mhz DDR4 
+## Build #04 · GTX 1060 / Ryzen 5 1500X
+*February 2026 · Facebook Marketplace*
 
-Storage: 1TB m.2 nvme ssd
+**CPU** Ryzen 5 1500X · **GPU** GTX 1060 · **Motherboard** ASUS B350M Gaming Pro · **RAM** 16GB DDR4-2400  
+**Storage** 512GB Samsung SATA SSD · **Cooling** AIO · **PSU** Corsair CX750W · **Case** Zalman
 
-Cooler: Air cooler
+**Cost:** $135 · **Sold:** $225 · **Profit:** $90
 
-Case: NZXT S340
+Bought mainly to downgrade parts and keep the better components for future builds.  
+**Lessons:** OfferUp can be a source for PCs; downgrading parts before reselling can work well.
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $250 - $40 (GTX 1070) + $150 (RTX 2080) + $3.5 (thermaltake fan) + $12 (PSU bracket)= <b>$375.50</b>
-* **Price sold for:** $600
-* **Profit:** $224.50
-* **Details:** This PC was built using a different pc then upgrading the gpu, which I put an RTX 2080 inside. The case had missing screws and a missing PSU bracket, which I had to use my own inventory to buy the replacements. The buyer that came also bought my 1000W psu that I had.
-* **Things I learned:** <b>1.</b> Recommend other parts that you have to buyers
-* **Photos:** <img src="pc_build_ten.jpg" width="400">
-_______________________________________
-### Build #09 (RTX 3070 + 5 5600) 4/26
-**Specs:** 
+![Build #04](Pc_build_four.jpg)
 
-CPU: Ryzen 5 5600 6 core / 12 threads
+---
 
-GPU: RTX 3070 8GB
+## Build #03 · RTX 2070 / Intel i7-8700
+*February 2026 · Facebook Marketplace*
 
-MOBO: MSI b550
+**CPU** Intel Core i7-8700 · **GPU** MSI RTX 2070 8GB · **RAM** 16GB DDR4-2400 · **Storage** 1TB Western Digital SATA SSD  
+**Motherboard** ASUS B360M-A · **Cooler** AIO liquid cooler · **PSU** Thermaltake Smart 600W · **Case** SAMA SV02
 
-RAM: ADATA XPG 16gb - 3000mhz DDR4 RGB
+**Cost:** $440 · **Sold:** $510 · **Profit:** $70
 
-Storage: 1TB m.2 nvme ssd
+Bought a PC and upgraded its case before reselling. I also tried paying a friend to help.  
+**Lessons:** You don't have to use every part from the original PC; hire help only for difficult jobs.
 
-Cooler: AMD stock cooler
+![Build #03](pc_build_three.jpg)
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $175 (RTX 3070) + $80 (Ryzen 5 5600 + cooler) + $60 (MSI b550) + $40 (ADATA XPG 16gb - 3000mhz DDR4 RGB) + $60 (Samsung 1tb sata ssd)+ $25 (SEGOTEP GM 850W) + $25 (MSI case) = <b>$465</b>
-* **Price sold for:** $725
-* **Profit:** $260
-* **Details:** This PC was made using components from my storage, and had the biggest profit yet. All the parts I got pretty good deals on, and if you combine all the deals, you get an amazing pc with cheap. This was also my fastest selling pc, only taking a day until it was sold.
-* **Things I learned:** <b>1.</b> Using lots of components that you got good deals on can get you a fat profit
-* **Photos:** <img src="pc_build_nine.jpg" width="400">
-_______________________________________
-### Build #08 (RTX 3080 + i7 12700F) 3/26
-**Specs:** 
+---
 
-CPU: Intel Core i7 12700F 12 Core / 20 Threads
+## Build #02 · RTX 3080 / Ryzen 7 5800X
+*January 2026 · Jawa.gg*
 
-GPU: RTX 3080 10GB
+**CPU** Ryzen 7 5800X · **GPU** Gigabyte Eagle RTX 3080 · **RAM** ADATA 32GB DDR4-3600 · **Storage** 1TB Inland Premium NVMe SSD  
+**Motherboard** Gigabyte Vision D-P B550M · **Cooler** Thermalright Aqua Elite 360 V6 · **PSU** EVGA SuperNOVA 750W G+ · **Case** XPG Invader X ATX
 
-MOBO: Gigabyte B660 
+**Sold:** $920 · **Profit:** $170
 
-RAM: 32 gb DDR4 4000 mhz T-Force RGB
+My first build upgraded from a prebuilt PC. I replaced its GTX 1080 with an RTX 3080.  
+**Lessons:** Around $300 is a good price for an RTX 3080; buying and upgrading a whole PC can be easier than sourcing each part separately.
 
-Storage: 1TB m.2 nvme ssd
+![Build #02](pc_build_two.avif)
 
-Cooler: Black Air Cooler
+---
 
-* **Sold On:** Facebook Marketplace
-* **Cost:** $600 - $175 (RTX 3070) + $300 (RTX 3080) + $3.50 (thermaltake fan)= <b>$728.50</b>
-* **Price sold for:** $850
-* **Profit:** $121.50
-* **Details:** This Pc was made using a different pc that had everything inside this one except for the gpu, instead it had an rtx 3070. I bought an rtx 3080 to upgrade the pc, and put the rtx 3070 in my storage. The gpu was a little funky at first, being an hp oem model, but after a little bit of thermal pasting, I managed to get it working again.
-* **Things I learned:** <b>1.</b> Buy gpus from reputable brands
-* **Photos:** <img src="pc_build_eight.jpg" width="400">
-________________________________________
-### Build #07 (RTX 3080 + 7 5800X) 3/26
-**Specs:** 
+## Build #01 · GTX 1080 / Intel i5-10400
+*September 2025 · Jawa.gg*
 
-CPU: Ryzen 7 5800X 8 Core / 16 Threads
+**CPU** Intel i5-10400 · **GPU** EVGA GeForce GTX 1080 · **Motherboard** MSI H510M-B · **RAM** Corsair Vengeance RGB Pro 16GB DDR4-3200  
+**Storage** Patriot 1TB M.2 NVMe SSD · **PSU** EVGA BR 500W · **Case** DIYPC ARGB-G5-BK
 
-GPU: RTX 3080 10GB
+**Cost:** $429 · **Sold:** $455 · **Profit:** $26
 
-MOBO:  B550
+My first build. I sourced the parts separately and assembled them; it originally had an i3-10100F before I upgraded the CPU.  
+**Lessons:** How to build a PC, find deals, and identify which parts appeal to buyers.
 
-RAM: 16gb DDR4 3200 mhz Corsair LED
-
-Storage: 512gb m.2 nvme ssd + 512gb sata ssd
-
-Cooler: Corsair rgb AIO 
-
-* **Sold On:** Facebook Marketplace
-* **Cost:** $560 - $90 (32gb-4000) + $50 (Corsair LED 16gb - 3200mhz DDR4) + $150 (Ryzen 7 5800X) - $5 (Ryzen 3 1300X) + $3.50 (thermaltake fan)= <b>$668.50</b>
-* **Price sold for:** $900
-* **Profit:** $231.50
-* **Details:** The original Pc I bought had an RTX 3070 and an ryzen 3 3100X, which I replaced both. I put the RTX 3070 in a different build (build #6) and replaced it with a RTX 3080. I also bought a different cpu, the ryzen 7 5800X, so there wouldn't be any bottlenecks. The original build also had a 32gb of trident royal running at 4000mhz, which was overkill for the build so I switched it out for a 16gb kit of ram instead.
-* * **Things I learned:** <b>1.</b> Just switching out parts and reselling is really easy
-* **Photos:** <img src="pc_build_seven.jpg" width="400">
-________________________________________
-### Build #06 (RTX 3070 + Ryzen 5 5600X) 3/26
-**Specs:** 
-CPU: Ryzen 5 5600X 6 cores 12 threads
-
-GPU: EVGA RTX 3070 XC3 8GB GDDR6
-
-MOBO:  ASUS B450M
-
-RAM: T-Force Vulcan Z 16gb 3000mhz DDR4 
-
-Storage: 512gb m.2 nvme ssd
-
-Cooler: Black air cooler
-
-PSU: 750W Gold Seasonic
-
-Case: Aura case
-
-* **Sold On:** Offerup
-* **Cost:** $650
-* **Price sold for:** $700
-* **Profit:** $50
-* **Details:** Originally bought a PC that had everything inside of this pc except instead of an RTX 3070, it had an RTX 3080. I replaced the RTX 3080 with the RTX 3070 that was in a different PC that I bought (Build #7), and valued this pc to cost me $650.
-* **Things I learned:** <b>1.</b> Just switching out parts and reselling is really easy
-* **Photos:** <img src="pc_build_six.jpg" width="400">
-_____________________________________________
-### Build #05 (RTX 3080 + i7 10700K) 2/26
-**Specs:** 
-CPU: i7 10700k 8 Core / 16 Threads
-
-GPU: EVGA RTX 3080 FTW3 10GB
-
-MOBO:  ASUS Z590
-
-RAM: 16gb Corsair RGB
-
-Storage: 1tb m.2 nvme ssd
-
-Cooler: Corsair AIO 
-
-PSU: Corsair 850W
-
-Case: Corsair case
-
-* **Sold On:** Facebook Marketplace
-* **Cost:** $700
-* **Price sold for:** 850
-* **Profit:** $150
-* **Details:** I bought this PC on offerup at a really good deal, but it was a really dirty. All I did to it was clean it as best as I could then I relisted it. I did not take out any parts at all, and this was probably the easiest sale I made at the time.
-* **Things Learned:** <b>1.</b> You don't always have to upgrade or replace parts, you can just relist it without changing anything
-* **Photos:** <img src="pc_build_five.jpg" width="400">
-_____________________________________________
-### Build #04 (GTX 1060 + Ryzen 5 1500X) 2/26
-**Specs:** 
-CPU: Ryzen 5 1500X
-
-GPU: GTX 1060
-
-MOBO: Asus b350M gaming pro
-
-MEMORY: 16gb 2400 mt/s DDR4
-
-STORAGE: 512gb samsung sata ssd
-
-COOLING: AIO cooler
-
-PSU: Corsair CX750W
-
-CASE: Zalman case
-
-* **Sold On:** Facebook Marketplace
-* **Cost:** $175 - $40 (Corsair LED 16gb - 2666mhz DDR4) + $30 (TEAMGROUP 16gb - 2400mhz DDR4) - $60 (1tb ssd) + $30 (512gb ssd) = <b>$135</b>
-* **Price sold for:** $225
-* **Profit:** $90
-* **Details:** This is the weakest PC that I built at the time, and I mainly bought it to downgrade some parts and store the better parts away for future uses. I replaced the ram kit to a weaker one and a downgraded the storage down to only 512gb. The main selling point of this build is that it was very upgradable, being on the am4 platform and having 750W. This was also the first PC I bought on Offerup.
-* **Things Learned:** <b>1.</b> You can buy Pc's on Offerup too <b>2.</b> Downgrading parts than reselling for profit is really effective
-* **Photos:** <img src="Pc_build_four.jpg" width="400">
-________________________________________
-### Build #03 (RTX 2070 + i7 8700) 2/26
-**Specs:** 
-CPU: Intel Core i7-8700
-
-GPU: MSI RTX 2070 8GB 
-
-RAM: 16GB DDR4 2400MT/s (2x8GB)
-
-Storage: 1TB Western Digital SATA SSD
-
-Motherboard: ASUS B360M-A (mATX)
-
-CPU Cooler: AIO Liquid Cooler
-
-Power Supply: Thermaltake Smart 600W
-
-Case: SAMA SV02
-
-* **Sold On:** Facebook Marketplace
-* **Cost:** $400 + $60 (Sama sv02) - $30 (TEAMGROUP 16gb - 2400mhz DDR4) - $10 (IbuyPower) + $20 (worker pay) = <b>$440</b>
-* **Price sold for:** $510
-* **Profit:** $70
-* **Details:** This PC was made by buying a PC on facebook marketplace then upgrading the case to sell back online. I tried testing out trying to pay a friend to work with me, which I didn't regret entirely. The original PC had 32gb of ram, which I took out 16gb for a future build.
-* **Things Learned:** <b>1.</b> You're not required to use all the parts that came with the original PC <b>2.</b> Only hire people for hard jobs
-* **Photos:** <img src="pc_build_three.jpg" width="400">
-_____________________________________________
-### Build #02 (RTX 3080 + Ryzen 7 5800X) 1/26
-**Specs:** 
-CPU: Ryzen 7 5800X
-
-GPU: Gigabyte Eagle RTX 3080
-
-RAM: ADATA 32GB 3600MT/S DDR4
-
-Storage: 1TB Inland Premium NVME SSD
-
-Motherboard: Gigabyte Vision D-P B550M
-
-CPU Cooler: Thermalright Aqua Elite 360 V6
-
-Power Supply: EVGA SUPERNOVA 750W G+
-
-Case: XPG Invader X ATX
-
-* **Sold On:** Jawa.gg
-* **Cost:** $425 + $275 (RTX 3080) + 5$0 (XPG case) + $60 (Thermalright aio cooler) + $10 (psu cable) - $10 (case) - $10 (pcie extender) - $20 (Arctic Liquid Freezer II) - $30 (512gb sata ssd)= <b>$740</b>
-* **Price sold for:** $920
-* **Profit:** $170
-* **Details:** This PC was my first PC that used an already prebuilt PC and upgraded that PC. The original pc had an GTX 1080, but I replaced it with an RTX 3080 because the gpu was bottlenecking the CPU. I don't have the GTX 1080 anymore because I gave it away as a birthday present. I also upgraded the case and cooler, so if you include the cost of the RTX 3080, the total cost of the upgrades is $385. Although after upgrading the case, I sold the old case and the pcie extender that came with the case for a total of $20 and I kept the old cooler for future uses. There was also an extra 512gb ssd which I took out too.
-* **Things Learned:** 1. A good price to buy an rtx 3080 is around $300 2. Buying a whole PC and then reselling is a lot easier than scavenging for each part seperately
-* **Photos:** <img src="pc_build_two.avif" width="400">
-________________________________________
-### Build #01 (GTX 1080 + i5 10400) 9/25
-**Specs:** 
-Graphics Card ---> Nvidia EVGA Geforce GTX 1080
-
-CPU ---> Intel i5 10400 6 core 8 thread Processor
-
-Motherboard ---> MSI H510M-B
-
-Memory ---> Corsair Vengeance RGB Pro 16GB DDR4 3200 mhz
-
-Storage ---> Patriot 1TB M.2 SSD NVME
-
-Power Supply ---> EVGA BR 500w
-
-Case - DIYPC ARGB-G5-BK
-
-* **Sold On:** Jawa.gg
-* **Cost:** $429
-* **Price sold for:** $455
-* **Profit:** $26
-* **Details:** This was my very first build I made. I bought all the parts seperately and then assembled them all together. This computer orginally had an i3 10100F but then was replaced with an i5 10400 in my personal PC to sell quicker. Althought the profits weren't the best, I got valuable learning experience from it.
-* **Things Learned:** <b>1.</b> How to build a PC  <b>2.</b> How to find deals  <b>3.</b> Parts that look appealing to buyers and parts that don't
-* **Photos:** <img src="pc_build_one.webp" width="400">
+![Build #01](pc_build_one.webp)
