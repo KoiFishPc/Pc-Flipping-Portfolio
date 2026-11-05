@@ -3,6 +3,7 @@
 
 # Inventory
 ## CPU
+* **Ryzen 5 2600 ($29.36):** AVAILABLE ---- From eBay
 * **Ryzen 7 5800X ($161.65):** AVAILABLE ---- From eBay
 * **Ryzen 5 7600X ($108.67):** AVAILABLE ---- From eBay
 * **Ryzen 7 7700X ($120):** AVAILABLE ---- From Facebook Marketplace
@@ -36,6 +37,7 @@ ____________________________________________________________
 * **RTX 3070 ($175):** USED ---- From PC build #08
 
 ## MOTHERBOARD
+* **GIGABYTE B450 AORUS ELITE ($38.44):** AVAILAVLE ---- From eBay
 * **ASUS TUF Gaming B550-PLUS WiFi II ($35.38):** AVAILABLE ---- From eBay
 * **GIGABYTE B650M C V3 ($38.69):** AVAILABLE ---- From eBay
 * **Gigabyte B850 GAMING WIFI6 ($82.90):** AVAILABLE ---- From eBay
@@ -77,14 +79,15 @@ ____________________________________________________________
 * **TEAMGROUP 16gb - 2400mhz DDR4 ($30):** USED ---- From PC build #03
 * 
 ## STORAGE 
+* **Seagate 500gb sata ssd 6x ($11.06 each):** AVAILABLE ---- From eBay
 * **Samsung 860 QVO 1TB ($78.74):** AVAILABLE ---- From eBay
-* **Toshiba 512gb nvme ssd ($28.54):** AVAILABLE ---- From eBay
-* **Western digital 512gb nvme ssd ($33.17):** AVAILABLE ---- From eBay
 * **Sandisk 1tb sata ssd ($78.29):** AVAILABLE ---- From eBay
 * **Teamgroup 1tb sata ssd ($73.04):** AVAILABLE ---- From eBay
 * **960gb sata ssd ($65.72):** AVAILABLE ---- From eBay
 * **512gb nvme ssd 3x ($34 each):** AVAILABLE ---- From eBay
 ____________________________________________________________
+* **Toshiba 512gb nvme ssd ($28.54):** USED ---- From eBay
+* **Western digital 512gb nvme ssd ($33.17):** USED---- From eBay
 * **512gb hdd:** USED ---- From one of the pc builds
 * **SAMSUNG 256gb sata ssd ($15)** USED ---- From a deal
 * **1tb hdd:** USED ---- From one of the pc builds
