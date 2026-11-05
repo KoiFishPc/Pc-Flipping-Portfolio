@@ -67,7 +67,7 @@ Case: EVGA DG-7 Series
 
 **Cost:** $340.70 · **Sold:** $450 · **Profit:** $109.30
 
-Description: The RAM turned out to be broken, so I replaced it for the buyer. The buyer was UW basketball player Harun Zrno.
+Description: The RAM turned out to be broken, so I replaced it for the buyer. 
 
 **Lesson:** Stress-test systems more thoroughly.
 
