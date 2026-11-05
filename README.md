@@ -25,8 +25,8 @@ This is a personal record of my hardware resale workflow. I use this repo to doc
 | Metric | Value |
 | --- | ---: |
 | Starting Capital | $1,300 |
-| Current Net Worth | -$1,592.26 |
-| Total Systems Flipped | 18 |
+| Current Net Worth | -$1,142.26 |
+| Total Systems Flipped | 19 |
 
 ## Portfolio Overview
 
