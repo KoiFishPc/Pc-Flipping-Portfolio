@@ -67,7 +67,7 @@ Case: EVGA DG-7 Series
 
 **Cost:** $340.70 · **Sold:** $450 · **Profit:** $109.30
 
-The RAM turned out to be broken, so I replaced it for the buyer. The buyer was UW basketball player Harun Zrno.
+Description: The RAM turned out to be broken, so I replaced it for the buyer. The buyer was UW basketball player Harun Zrno.
 
 **Lesson:** Stress-test systems more thoroughly.
 
@@ -121,7 +121,8 @@ Case: Cyberpower
 
 **Cost:** $248.96 · **Sold:** $400 · **Profit:** $151.04
 
-A quick sale, despite the modest profit.  
+Description: This was a quick sale with a modest profit, but it was a good steady sale overall.
+
 **Lesson:** RGB aesthetics matter less when selling budget PCs.
 
 ![Build #18](pc_build_eighteen.jpg)
@@ -149,7 +150,8 @@ Case: Sleek white gaming case with optimal airflow
 
 **Cost:** $1,031.58 · **Sold:** $1,375 · **Profit:** $343.42
 
-The buyer added 512GB of storage for $50. This was my strongest PC and biggest profit.  
+Description: The buyer asked for an extra 512GB of storage for an extra $50. This was the strongest PC and the biggest profit I had made.
+
 **Lesson:** AI can help create listing descriptions.
 
 ![Build #17](pc_build_seventeen.jpg)
@@ -177,7 +179,8 @@ Case: Cooler Master
 
 **Cost:** $638.48 · **Sold:** $875 · **Profit:** $236.52
 
-This PC took a long time to sell.  
+Description: This one took a very long time to sell, but it eventually sold for a strong return.
+
 **Lesson:** Avoid unnecessary fans.
 
 ![Build #16](pc_build_sixteen.jpg)
@@ -205,7 +208,8 @@ Case: NZXT S340
 
 **Cost:** $344 · **Sold:** $600 · **Profit:** $256
 
-The original PC was advertised with an RTX 3070, but had an RTX 2070 SUPER, so I requested a partial refund.  
+Description: The original PC was advertised with an RTX 3070, but it actually had an RTX 2070 SUPER, so I had to ask for a partial refund. The buyer was very easy to work with.
+
 **Lesson:** Ask buyers for reviews.
 
 ![Build #15](pc_build_fifteen.jpg)
@@ -308,7 +312,8 @@ Case: Lian Li O11 Dynamic Mini
 
 **Sold:** $925 · **Profit:** $206
 
-This was probably my best-looking PC. The case and PSU together cost $125, which was expensive for those parts. The profit made it worthwhile.  
+Description: This was probably my best-looking PC. The case and PSU together cost $125, which was expensive for those parts, but the profit made it worth it.
+
 **Lesson:** Avoid overspending on cases and PSUs.
 
 ![Build #11](pc_build_eleven.jpg)
@@ -334,7 +339,8 @@ Case: NZXT S340
 
 **Cost:** $375.50 · **Sold:** $600 · **Profit:** $224.50
 
-Built by upgrading another PC with an RTX 2080. The case was missing screws and a PSU bracket, which I replaced from my own inventory.  
+Description: This PC was built by upgrading another system with an RTX 2080. The case was missing screws and a PSU bracket, so I had to replace those from my own inventory.
+
 **Lesson:** Recommend other parts you have to buyers.
 
 ![Build #10](pc_build_ten.jpg)
@@ -362,7 +368,8 @@ Case: MSI
 
 **Cost:** $465 · **Sold:** $725 · **Profit:** $260
 
-Built using components from storage and parts bought at good prices.  
+Description: This PC was built using components from my storage and a handful of good-value parts, which helped produce one of my best profits.
+
 **Lesson:** Combining well-priced parts can lead to a strong profit.
 
 ![Build #09](pc_build_nine.jpg)
@@ -386,7 +393,8 @@ Motherboard: Gigabyte B660
 
 **Cost:** $728.50 · **Sold:** $850 · **Profit:** $121.50
 
-Upgraded another PC by replacing its RTX 3070 with an RTX 3080, then used the RTX 3070 in another build.  
+Description: This PC was built by upgrading another system that already had everything except the GPU, then I used the old RTX 3070 in a different build.
+
 **Lesson:** Buy GPUs from reputable brands.
 
 ![Build #08](pc_build_eight.jpg)
@@ -410,7 +418,8 @@ Motherboard: B550
 
 **Cost:** $668.50 · **Sold:** $900 · **Profit:** $231.50
 
-Upgraded a PC with an RTX 3080 and Ryzen 7 5800X, moving its RTX 3070 into Build #06.  
+Description: The original PC had an RTX 3070 and a Ryzen 3 3100X, which I replaced. I moved the RTX 3070 into a different build and upgraded this one to an RTX 3080.
+
 **Lesson:** Swapping parts and reselling can be straightforward.
 
 ![Build #07](pc_build_seven.jpg)
@@ -438,7 +447,8 @@ Case: Aura
 
 **Cost:** $650 · **Sold:** $700 · **Profit:** $50
 
-Originally bought a PC with an RTX 3080 and swapped in an RTX 3070 from another PC.  
+Description: I bought a PC that had an RTX 3080 in it, then replaced the GPU with the RTX 3070 from a different PC before reselling.
+
 **Lesson:** Swapping parts and reselling can be straightforward.
 
 ![Build #06](pc_build_six.jpg)
@@ -466,7 +476,8 @@ Case: Corsair
 
 **Cost:** $700 · **Sold:** $850 · **Profit:** $150
 
-Bought at a good price on OfferUp, cleaned it, and relisted it without replacing any parts.  
+Description: I bought this PC at a great deal on OfferUp, cleaned it thoroughly, and relisted it without changing any of the parts.
+
 **Lesson:** Sometimes you can simply clean and relist a PC.
 
 ![Build #05](pc_build_five.jpg)
@@ -494,7 +505,8 @@ Case: Zalman
 
 **Cost:** $135 · **Sold:** $225 · **Profit:** $90
 
-Bought mainly to downgrade parts and keep the better components for future builds.  
+Description: This was the weakest PC I built at the time. I mainly bought it to downgrade parts and store the better parts for future builds.
+
 **Lessons:** OfferUp can be a source for PCs; downgrading parts before reselling can work well.
 
 ![Build #04](Pc_build_four.jpg)
@@ -522,7 +534,8 @@ Case: SAMA SV02
 
 **Cost:** $440 · **Sold:** $510 · **Profit:** $70
 
-Bought a PC and upgraded its case before reselling. I also tried paying a friend to help.  
+Description: This PC was built by buying a used system and upgrading the case before reselling it. I also tried paying a friend to help, which turned out to be a worthwhile experiment.
+
 **Lessons:** You don't have to use every part from the original PC; hire help only for difficult jobs.
 
 ![Build #03](pc_build_three.jpg)
@@ -550,7 +563,8 @@ Case: XPG Invader X ATX
 
 **Sold:** $920 · **Profit:** $170
 
-My first build upgraded from a prebuilt PC. I replaced its GTX 1080 with an RTX 3080.  
+Description: This was my first PC build that used a prebuilt system and upgraded it. The original PC had a GTX 1080, which I replaced with an RTX 3080 because the GPU was bottlenecking the system.
+
 **Lessons:** Around $300 is a good price for an RTX 3080; buying and upgrading a whole PC can be easier than sourcing each part separately.
 
 ![Build #02](pc_build_two.avif)
@@ -576,7 +590,8 @@ Case: DIYPC ARGB-G5-BK
 
 **Cost:** $429 · **Sold:** $455 · **Profit:** $26
 
-My first build. I sourced the parts separately and assembled them; it originally had an i3-10100F before I upgraded the CPU.  
+Description: This was my very first build. I bought all the parts separately and assembled them together. The PC originally had an i3-10100F before I upgraded it to an i5-10400.
+
 **Lessons:** How to build a PC, find deals, and identify which parts appeal to buyers.
 
 ![Build #01](pc_build_one.webp)
